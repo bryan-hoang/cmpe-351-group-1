@@ -4,6 +4,9 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
+cryptocompare = "*"
+# For DataSpall to be able to run the notebooks.
+jupyter = "*"
 matplotlib = "*"
 missingno = "*"
 numpy = "*"
@@ -14,7 +17,6 @@ scikit-learn = "*"
 scipy = "*"
 seaborn = "*"
 statsmodels = "*"
-cryptocompare = "*"
 twython = "*"
 
 [dev-packages]
