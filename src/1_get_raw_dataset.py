@@ -124,3 +124,77 @@ for cryptocurrency in cryptocurrencies:
             f"{cryptocurrency.lower()}_{days_count}_days_by_minute.csv",
         )
     )
+
+# %% [markdown]
+# ## Getting Twitter data
+
+# %%
+dict = {
+    "text": [],  # statuses
+    "retweet_count": [],
+    "favorite_count": [],
+    "followers_count": [],
+    "verified": [],
+    "listed_count": [],
+    "created_at": [],
+    "hashtags": [],
+    "name": [],
+}
+
+hashtag_list = [
+    "#cryptocurrency",
+    "#crypto",
+    "#dogecoin",
+    "#DOGE",
+    "#bitcoin",
+    "#BTC",
+    "#ethereum",
+    "#ENS",
+    "#avalanche",
+    "#AVAX",
+    "#solana",
+    "#SOL",
+]
+
+
+def read_tweets(search_results):
+    for i in range(len(search_results["statuses"])):
+        for j in dict:
+            # search_results['statuses'][i]['text'] #, 'hashtags', 'followers_count', 'listed_count', 'favourites_count', 'created_at', 'retweet_count', 'favourite_count']]
+            if (
+                (j == "text")
+                or (j == "retweet_count")
+                or (j == "favorite_count")
+            ):
+                dict[j].append(search_results["statuses"][i][j])
+            elif j == "hashtags":
+                dict[j].append(search_results["statuses"][i]["entities"][j])
+            else:
+                dict[j].append(search_results["statuses"][i]["user"][j])
+    return pd.DataFrame(dict)
+
+
+date = datetime.today().strftime("%Y-%m-%d")
+
+
+def make_df(hashtag_list, until_date=date, result_type="popular"):
+    count = 0
+    df = pd.DataFrame()
+    for i in hashtag_list:
+        search_results = twitter.search(
+            count=100, q=i, until=until_date, result_type=result_type
+        )
+        if count == 0:
+            df = read_tweets(search_results)
+        else:
+            df = df.append(read_tweets(search_results))
+        count = count + 1
+
+    return df
+
+
+df = make_df(hashtag_list)
+
+df.head()
+
+df.to_csv("tweets-" + date + ".csv")
