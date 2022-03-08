@@ -21,22 +21,43 @@
 # ## Importing packages.
 #
 # First, we'll import the necessary python packages.
+#
 
 # %% [python]
+from datetime import datetime
+
 # Access environment variables.
 from os import environ
 
-# Cryptocompare API
-import cryptocompare
+# Resolving paths in a platform agnostic way.
+from os.path import dirname, join, realpath
 
-# Manipulating the raw data to save it in a ``.csv`` files.
-import pandas as pd
+# Cryptocompare API.
+from cryptocompare import get_historical_price_minute, get_price
 
 # Loading environment variables from a `.env` file.
 from dotenv import load_dotenv
 
+# Manipulating the raw data to save it in a ``.csv`` files.
+from pandas import DataFrame
+
 # Twython API.
 from twython import Twython
+
+
+# %%
+def is_interactive():
+    import __main__ as main
+
+    return not hasattr(main, "__file__")
+
+
+if is_interactive():
+    SCRIPT_DIR = dirname(realpath("__file__"))
+else:
+    SCRIPT_DIR = dirname(realpath(__file__))
+
+DATA_DIR = join(dirname(SCRIPT_DIR), "data")
 
 # %% [markdown]
 # ## Loading secrets from environment variables.
@@ -62,7 +83,7 @@ TWITTER_APP_SECRET = environ["TWITTER_APP_SECRET"]
 # an environment variable.
 
 # %%
-cryptocompare.get_price("BTC", currency="USD")
+get_price("BTC", currency="USD")
 
 # %% [markdown]
 # Now let's test accessing Twitter's API through Twython.
@@ -76,3 +97,30 @@ twitter = Twython(
 
 search_results = twitter.search(count=1, q="cryptocurrency")
 print(search_results)
+
+# %% [markdown]
+# ## Getting cryptocurrency data
+
+# %%
+cryptocurrencies = ["BTC", "ETH", "DOGE", "SOL", "AVAX"]
+for cryptocurrency in cryptocurrencies:
+    price_dataset = []
+    earliest_timestamp = datetime.now()
+    days_count = 7
+    for day in range(0, days_count):
+        price_dataset += get_historical_price_minute(
+            cryptocurrency, "USD", limit=1440, toTs=earliest_timestamp
+        )
+
+        earliest_timestamp = price_dataset[-1]["time"]
+
+    # Saving the raw price data to a csv file.
+    price_data_frame = DataFrame(price_dataset)
+    price_data_frame.to_csv(
+        join(
+            DATA_DIR,
+            "raw",
+            "crypto",
+            f"{cryptocurrency.lower()}_{days_count}_days_by_minute.csv",
+        )
+    )
