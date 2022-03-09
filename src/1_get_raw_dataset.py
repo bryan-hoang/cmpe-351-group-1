@@ -39,8 +39,9 @@ from cryptocompare import get_historical_price_minute, get_price
 from dotenv import load_dotenv
 
 # Manipulating the raw data to save it in a ``.csv`` files.
-from pandas import DataFrame
+from pandas import DataFrame, DatetimeIndex
 from pandas import concat as concat_df
+from pandas import date_range
 
 # Twython API.
 from twython import Twython
@@ -59,6 +60,7 @@ if is_interactive():
 else:
     SCRIPT_DIR = dirname(realpath(__file__))
 
+# "../data"
 DATA_DIR = join(dirname(SCRIPT_DIR), "data")
 
 # %% [markdown]
@@ -103,28 +105,38 @@ twitter.search(count=1, q="cryptocurrency")
 # ## Getting cryptocurrency data
 
 # %%
-cryptocurrencies = ["BTC", "ETH", "DOGE", "SOL", "AVAX"]
-for cryptocurrency in cryptocurrencies:
-    price_dataset = []
-    earliest_timestamp = datetime.now()
-    days_count = 7
-    for day in range(0, days_count):
-        price_dataset += get_historical_price_minute(
-            cryptocurrency, "USD", limit=1440, toTs=earliest_timestamp
+CRYPTOCURRENCIES = ["BTC", "ETH", "DOGE", "SOL", "AVAX"]
+# The last 7 days is the limit of the minute data from crypto compare.
+NUM_DAYS = 7
+DATE_RANGE = date_range(end=datetime.today(), periods=NUM_DAYS)
+
+
+def get_and_save_crypto_dataset(
+    cryptocurrencies: list[str], time_period: DatetimeIndex, save_folder: str
+):
+    """Get cryptocurrency data and save it to a csv file."""
+    for cryptocurrency in cryptocurrencies:
+        price_dataset = []
+        for date in time_period:
+            price_dataset += get_historical_price_minute(
+                cryptocurrency, "USD", limit=1440, toTs=date
+            )
+
+        # Saving the raw price data to a csv file.
+        price_data_frame = DataFrame(price_dataset)
+        price_data_frame.to_csv(
+            join(
+                save_folder,
+                "raw",
+                "crypto",
+                f"{cryptocurrency.lower()}"
+                f"_{time_period[0].strftime('%Y_%m_%d')}"
+                f"-{time_period[-1].strftime('%Y_%m_%d')}_minute.csv",
+            )
         )
 
-        earliest_timestamp = price_dataset[-1]["time"]
 
-    # Saving the raw price data to a csv file.
-    price_data_frame = DataFrame(price_dataset)
-    price_data_frame.to_csv(
-        join(
-            DATA_DIR,
-            "raw",
-            "crypto",
-            f"{cryptocurrency.lower()}_{days_count}_days_by_minute.csv",
-        )
-    )
+get_and_save_crypto_dataset(CRYPTOCURRENCIES, DATE_RANGE, DATA_DIR)
 
 # %% [markdown]
 # ## Getting Twitter data
@@ -178,10 +190,10 @@ def read_tweets(search_results):
     return DataFrame(tweet_data)
 
 
-date = datetime.today().strftime("%Y-%m-%d")
+date_today = datetime.today().strftime("%Y-%m-%d")
 
 
-def make_df(hashtag_list, until_date=date, result_type="popular"):
+def make_df(hashtag_list, until_date=date_today, result_type="popular"):
     """Make a dataframe of tweets containing the specified hashtags."""
     count = 0
     tweets_dataframe = DataFrame()
@@ -200,7 +212,12 @@ def make_df(hashtag_list, until_date=date, result_type="popular"):
 df = make_df(HASHTAG_LIST)
 
 df.to_csv(
-    join(DATA_DIR, "raw", "twitter", f"tweets_{date}.csv".replace("-", "_"))
+    join(
+        DATA_DIR,
+        "raw",
+        "twitter",
+        f"tweets_{date_today}.csv".replace("-", "_"),
+    )
 )
 
 df.head()
