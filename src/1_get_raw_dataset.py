@@ -40,6 +40,7 @@ from dotenv import load_dotenv
 
 # Manipulating the raw data to save it in a ``.csv`` files.
 from pandas import DataFrame
+from pandas import concat as concat_df
 
 # Twython API.
 from twython import Twython
@@ -47,6 +48,7 @@ from twython import Twython
 
 # %%
 def is_interactive():
+    """Check if the script is being run interactively."""
     import __main__ as main
 
     return not hasattr(main, "__file__")
@@ -60,7 +62,7 @@ else:
 DATA_DIR = join(dirname(SCRIPT_DIR), "data")
 
 # %% [markdown]
-# ## Loading secrets from environment variables.
+# ## Initializing APIs.
 #
 # Next, we need to set credentials to access the CryptoCompare and Twython
 # APIs. To avoid hard coding the secrets, we'll load them from the environment,
@@ -74,6 +76,12 @@ load_dotenv()
 # specified typically from the commandline.
 TWITTER_APP_KEY = environ["TWITTER_APP_KEY"]
 TWITTER_APP_SECRET = environ["TWITTER_APP_SECRET"]
+
+twitter = Twython(TWITTER_APP_KEY, TWITTER_APP_SECRET, oauth_version=2)
+ACCESS_TOKEN = twitter.obtain_access_token()
+twitter = Twython(
+    TWITTER_APP_KEY, TWITTER_APP_SECRET, access_token=ACCESS_TOKEN
+)
 
 # %% [markdown]
 # ## Testing the APIs.
@@ -89,14 +97,7 @@ get_price("BTC", currency="USD")
 # Now let's test accessing Twitter's API through Twython.
 
 # %%
-twitter = Twython(TWITTER_APP_KEY, TWITTER_APP_SECRET, oauth_version=2)
-ACCESS_TOKEN = twitter.obtain_access_token()
-twitter = Twython(
-    TWITTER_APP_KEY, TWITTER_APP_SECRET, access_token=ACCESS_TOKEN
-)
-
-search_results = twitter.search(count=1, q="cryptocurrency")
-print(search_results)
+twitter.search(count=1, q="cryptocurrency")
 
 # %% [markdown]
 # ## Getting cryptocurrency data
@@ -129,7 +130,7 @@ for cryptocurrency in cryptocurrencies:
 # ## Getting Twitter data
 
 # %%
-dict = {
+tweet_data: dict = {
     "text": [],  # statuses
     "retweet_count": [],
     "favorite_count": [],
@@ -141,7 +142,7 @@ dict = {
     "name": [],
 }
 
-hashtag_list = [
+HASHTAG_LIST = [
     "#cryptocurrency",
     "#crypto",
     "#dogecoin",
@@ -158,43 +159,48 @@ hashtag_list = [
 
 
 def read_tweets(search_results):
+    """Read tweets from the search results into a data frame."""
     for i in range(len(search_results["statuses"])):
-        for j in dict:
-            # search_results['statuses'][i]['text'] #, 'hashtags', 'followers_count', 'listed_count', 'favourites_count', 'created_at', 'retweet_count', 'favourite_count']]
+        for j, _ in tweet_data.items():
             if (
                 (j == "text")
                 or (j == "retweet_count")
                 or (j == "favorite_count")
             ):
-                dict[j].append(search_results["statuses"][i][j])
+                tweet_data[j].append(search_results["statuses"][i][j])
             elif j == "hashtags":
-                dict[j].append(search_results["statuses"][i]["entities"][j])
+                tweet_data[j].append(
+                    search_results["statuses"][i]["entities"][j]
+                )
             else:
-                dict[j].append(search_results["statuses"][i]["user"][j])
-    return pd.DataFrame(dict)
+                tweet_data[j].append(search_results["statuses"][i]["user"][j])
+
+    return DataFrame(tweet_data)
 
 
 date = datetime.today().strftime("%Y-%m-%d")
 
 
 def make_df(hashtag_list, until_date=date, result_type="popular"):
+    """Make a dataframe of tweets containing the specified hashtags."""
     count = 0
-    df = pd.DataFrame()
+    tweets_dataframe = DataFrame()
     for i in hashtag_list:
         search_results = twitter.search(
             count=100, q=i, until=until_date, result_type=result_type
         )
-        if count == 0:
-            df = read_tweets(search_results)
-        else:
-            df = df.append(read_tweets(search_results))
+        tweets_dataframe = concat_df(
+            [tweets_dataframe, read_tweets(search_results)]
+        )
         count = count + 1
 
-    return df
+    return tweets_dataframe
 
 
-df = make_df(hashtag_list)
+df = make_df(HASHTAG_LIST)
+
+df.to_csv(
+    join(DATA_DIR, "raw", "twitter", f"tweets_{date}.csv".replace("-", "_"))
+)
 
 df.head()
-
-df.to_csv("tweets-" + date + ".csv")
