@@ -1,0 +1,1043 @@
+,tweet_id,name,verified,created_at,retweet_count,favorite_count,followers_count,hashtags,text,clean_text,textblob_sentiment,textblob_summary,vader_sentiment_pos,vader_sentiment_neg,vader_sentiment_neu,vader_sentiment_compound,vader_summary
+15,15,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+34,34,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+57,57,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+72,72,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+82,82,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+97,97,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+118,118,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+133,133,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+146,146,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+148,148,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+149,149,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+159,159,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+174,174,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+187,187,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+189,189,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+190,190,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+198,198,David Gokhshtein,True,2022-03-05 12:56:39+00:00,20,121,610961,"[{'text': 'Ethereum', 'indices': [27, 36]}]","Tai Lopez stating he broke #Ethereum was funny. 
+
+That’s all. 
+
+$ETH.",['tai lopez stating he broke #ethereum was funny \r\n\r\nthat’s all \r\n\r\neth'],0.25,Positive,0.197,0.19,0.612,0.0258,Neutral
+208,208,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+223,223,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+236,236,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+238,238,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+239,239,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+247,247,David Gokhshtein,True,2022-03-05 12:56:39+00:00,20,121,610961,"[{'text': 'Ethereum', 'indices': [27, 36]}]","Tai Lopez stating he broke #Ethereum was funny. 
+
+That’s all. 
+
+$ETH.",['tai lopez stating he broke #ethereum was funny \r\n\r\nthat’s all \r\n\r\neth'],0.25,Positive,0.197,0.19,0.612,0.0258,Neutral
+248,248,Cory Betts,True,2022-03-05 22:13:28+00:00,865,849,86672,"[{'text': 'ETH', 'indices': [49, 53]}]","I’ve teamed up with @nxtg3nz to giveaway $200 in #ETH + 2 WL spots!
+
+👉 Follow @nxtg3nz (🔔)
+👉 Like, Retweet, Tag 3 F… https://t.co/buR0wvI3JD",['i’ve teamed up with @nxtg3nz to giveaway 200 in #eth  2 wl spots\r\n\r\n👉 follow @nxtg3nz 🔔\r\n👉 like retweet tag 3 f… httpstcobur0wvi3jd'],0.0,Neutral,0.116,0.0,0.884,0.3612,Positive
+250,250,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+251,251,The Moon,True,2022-03-05 03:30:02+00:00,135,968,1013020,"[{'text': 'altcoin', 'indices': [6, 14]}, {'text': 'ETH', 'indices': [32, 36]}]","Which #altcoin will be the next #ETH?
+
+👇🏻👇🏻👇🏻",['which #altcoin will be the next #eth\r\n\r\n👇🏻👇🏻👇🏻'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+252,252,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+253,253,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+263,263,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+278,278,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+291,291,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+293,293,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+294,294,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+302,302,David Gokhshtein,True,2022-03-05 12:56:39+00:00,20,121,610961,"[{'text': 'Ethereum', 'indices': [27, 36]}]","Tai Lopez stating he broke #Ethereum was funny. 
+
+That’s all. 
+
+$ETH.",['tai lopez stating he broke #ethereum was funny \r\n\r\nthat’s all \r\n\r\neth'],0.25,Positive,0.197,0.19,0.612,0.0258,Neutral
+303,303,Cory Betts,True,2022-03-05 22:13:28+00:00,865,849,86672,"[{'text': 'ETH', 'indices': [49, 53]}]","I’ve teamed up with @nxtg3nz to giveaway $200 in #ETH + 2 WL spots!
+
+👉 Follow @nxtg3nz (🔔)
+👉 Like, Retweet, Tag 3 F… https://t.co/buR0wvI3JD",['i’ve teamed up with @nxtg3nz to giveaway 200 in #eth  2 wl spots\r\n\r\n👉 follow @nxtg3nz 🔔\r\n👉 like retweet tag 3 f… httpstcobur0wvi3jd'],0.0,Neutral,0.116,0.0,0.884,0.3612,Positive
+305,305,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+306,306,The Moon,True,2022-03-05 03:30:02+00:00,135,968,1013020,"[{'text': 'altcoin', 'indices': [6, 14]}, {'text': 'ETH', 'indices': [32, 36]}]","Which #altcoin will be the next #ETH?
+
+👇🏻👇🏻👇🏻",['which #altcoin will be the next #eth\r\n\r\n👇🏻👇🏻👇🏻'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+307,307,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+308,308,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+318,318,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+333,333,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+346,346,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+348,348,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+349,349,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+357,357,David Gokhshtein,True,2022-03-05 12:56:39+00:00,20,121,610961,"[{'text': 'Ethereum', 'indices': [27, 36]}]","Tai Lopez stating he broke #Ethereum was funny. 
+
+That’s all. 
+
+$ETH.",['tai lopez stating he broke #ethereum was funny \r\n\r\nthat’s all \r\n\r\neth'],0.25,Positive,0.197,0.19,0.612,0.0258,Neutral
+358,358,Cory Betts,True,2022-03-05 22:13:28+00:00,865,849,86672,"[{'text': 'ETH', 'indices': [49, 53]}]","I’ve teamed up with @nxtg3nz to giveaway $200 in #ETH + 2 WL spots!
+
+👉 Follow @nxtg3nz (🔔)
+👉 Like, Retweet, Tag 3 F… https://t.co/buR0wvI3JD",['i’ve teamed up with @nxtg3nz to giveaway 200 in #eth  2 wl spots\r\n\r\n👉 follow @nxtg3nz 🔔\r\n👉 like retweet tag 3 f… httpstcobur0wvi3jd'],0.0,Neutral,0.116,0.0,0.884,0.3612,Positive
+360,360,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+361,361,The Moon,True,2022-03-05 03:30:02+00:00,135,968,1013020,"[{'text': 'altcoin', 'indices': [6, 14]}, {'text': 'ETH', 'indices': [32, 36]}]","Which #altcoin will be the next #ETH?
+
+👇🏻👇🏻👇🏻",['which #altcoin will be the next #eth\r\n\r\n👇🏻👇🏻👇🏻'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+362,362,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+363,363,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+364,364,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+374,374,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+389,389,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+402,402,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+404,404,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+405,405,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+413,413,David Gokhshtein,True,2022-03-05 12:56:39+00:00,20,121,610961,"[{'text': 'Ethereum', 'indices': [27, 36]}]","Tai Lopez stating he broke #Ethereum was funny. 
+
+That’s all. 
+
+$ETH.",['tai lopez stating he broke #ethereum was funny \r\n\r\nthat’s all \r\n\r\neth'],0.25,Positive,0.197,0.19,0.612,0.0258,Neutral
+414,414,Cory Betts,True,2022-03-05 22:13:28+00:00,865,849,86672,"[{'text': 'ETH', 'indices': [49, 53]}]","I’ve teamed up with @nxtg3nz to giveaway $200 in #ETH + 2 WL spots!
+
+👉 Follow @nxtg3nz (🔔)
+👉 Like, Retweet, Tag 3 F… https://t.co/buR0wvI3JD",['i’ve teamed up with @nxtg3nz to giveaway 200 in #eth  2 wl spots\r\n\r\n👉 follow @nxtg3nz 🔔\r\n👉 like retweet tag 3 f… httpstcobur0wvi3jd'],0.0,Neutral,0.116,0.0,0.884,0.3612,Positive
+416,416,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+417,417,The Moon,True,2022-03-05 03:30:02+00:00,135,968,1013020,"[{'text': 'altcoin', 'indices': [6, 14]}, {'text': 'ETH', 'indices': [32, 36]}]","Which #altcoin will be the next #ETH?
+
+👇🏻👇🏻👇🏻",['which #altcoin will be the next #eth\r\n\r\n👇🏻👇🏻👇🏻'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+418,418,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+419,419,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+420,420,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+433,433,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+448,448,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+461,461,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+463,463,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+464,464,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+472,472,David Gokhshtein,True,2022-03-05 12:56:39+00:00,20,121,610961,"[{'text': 'Ethereum', 'indices': [27, 36]}]","Tai Lopez stating he broke #Ethereum was funny. 
+
+That’s all. 
+
+$ETH.",['tai lopez stating he broke #ethereum was funny \r\n\r\nthat’s all \r\n\r\neth'],0.25,Positive,0.197,0.19,0.612,0.0258,Neutral
+473,473,Cory Betts,True,2022-03-05 22:13:28+00:00,865,849,86672,"[{'text': 'ETH', 'indices': [49, 53]}]","I’ve teamed up with @nxtg3nz to giveaway $200 in #ETH + 2 WL spots!
+
+👉 Follow @nxtg3nz (🔔)
+👉 Like, Retweet, Tag 3 F… https://t.co/buR0wvI3JD",['i’ve teamed up with @nxtg3nz to giveaway 200 in #eth  2 wl spots\r\n\r\n👉 follow @nxtg3nz 🔔\r\n👉 like retweet tag 3 f… httpstcobur0wvi3jd'],0.0,Neutral,0.116,0.0,0.884,0.3612,Positive
+475,475,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+476,476,The Moon,True,2022-03-05 03:30:02+00:00,135,968,1013020,"[{'text': 'altcoin', 'indices': [6, 14]}, {'text': 'ETH', 'indices': [32, 36]}]","Which #altcoin will be the next #ETH?
+
+👇🏻👇🏻👇🏻",['which #altcoin will be the next #eth\r\n\r\n👇🏻👇🏻👇🏻'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+477,477,Candela,True,2022-03-05 14:25:15+00:00,65,136,1334464,"[{'text': 'Crypto', 'indices': [13, 20]}, {'text': 'BTC', 'indices': [62, 66]}, {'text': 'ETH', 'indices': [68, 72]}, {'text': 'BNB', 'indices': [73, 77]}, {'text': 'Altcoin', 'indices': [79, 87]}, {'text': 'memecoin', 'indices': [88, 97]}, {'text': 'Metaverse', 'indices': [98, 108]}, {'text': 'GameFi', 'indices': [109, 116]}, {'text': 'P2E', 'indices': [117, 121]}, {'text': 'NFTs', 'indices': [122, 127]}]","Good Morning #Crypto Fam! ☀️☕️
+
+What are we buying today!? 👀
+
+#BTC  #ETH #BNB  #Altcoin #memecoin #Metaverse #GameFi #P2E #NFTs",['good morning #crypto fam ☀️☕️\r\n\r\nwhat are we buying today 👀\r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #gamefi #p2e #nfts'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+478,478,OKX_Brasil (antiga OKEx),True,2022-03-05 00:00:58+00:00,17,54,4541,"[{'text': 'BTC', 'indices': [52, 56]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'SHIB', 'indices': [106, 111]}]","Top 10 moedas mencionadas no Twitter esta semana 📣
+
+#BTC 3,362,736
+#ETH 806,761
+CAKE 447,662
+$XTZ 395,927
+#SHIB 344… https://t.co/9QeuuntA7W",['top 10 moedas mencionadas no twitter esta semana 📣\r\n\r\n#btc 3362736\r\n#eth 806761\r\ncake 447662\r\nxtz 395927\r\n#shib 344… httpstco9qeuunta7w'],0.5,Positive,0.0,0.136,0.864,-0.296,Negative
+479,479,Túlio,True,2022-03-05 13:35:23+00:00,96,134,840626,"[{'text': 'altcoins', 'indices': [17, 26]}, {'text': 'ETH', 'indices': [67, 71]}, {'text': 'AVAX', 'indices': [72, 77]}, {'text': 'FTM', 'indices': [78, 82]}, {'text': 'GEM', 'indices': [83, 87]}, {'text': 'LOWCAP', 'indices': [88, 95]}, {'text': 'ALTCOIN', 'indices': [96, 104]}, {'text': 'nft', 'indices': [105, 109]}, {'text': 'BTC', 'indices': [110, 114]}]","Looking for some #altcoins that will skyrocket this weekend 🔎
+
+BSC #ETH #AVAX #FTM #GEM #LOWCAP #ALTCOIN #nft #BTC",['looking for some #altcoins that will skyrocket this weekend 🔎\r\n\r\nbsc #eth #avax\xa0#ftm #gem #lowcap #altcoin #nft #btc'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+499,16,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+514,31,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+533,50,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+553,70,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+568,85,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+587,104,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+602,119,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+625,142,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+640,157,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+651,168,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+653,170,Bitcoin News,True,2022-03-06 15:23:52+00:00,137,395,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ethereum', 'indices': [60, 69]}]","#Bitcoin remained under the $40,000 level on Sunday, whilst #ethereum hovered above its long-term support level. https://t.co/AEvz6gyZgT",['#bitcoin remained under the 40000 level on sunday whilst #ethereum hovered above its longterm support level httpstcoaevz6gyzgt'],0.0,Neutral,0.144,0.0,0.856,0.4019,Positive
+667,184,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+682,199,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+693,210,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+695,212,Bitcoin News,True,2022-03-06 15:23:52+00:00,137,395,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ethereum', 'indices': [60, 69]}]","#Bitcoin remained under the $40,000 level on Sunday, whilst #ethereum hovered above its long-term support level. https://t.co/AEvz6gyZgT",['#bitcoin remained under the 40000 level on sunday whilst #ethereum hovered above its longterm support level httpstcoaevz6gyzgt'],0.0,Neutral,0.144,0.0,0.856,0.4019,Positive
+697,214,JAYE CANE,True,2022-03-06 03:59:07+00:00,245,385,273463,"[{'text': 'WETH', 'indices': [11, 16]}, {'text': 'ETH', 'indices': [78, 82]}]",I have 6.5 #WETH sitting in my OpenSea account I can’t switch it from WETH to #ETH should I just start giving that away ?,['i have 65 #weth sitting in my opensea account i can’t switch it from weth to #eth should i just start giving that away '],0.0,Neutral,0.098,0.0,0.902,0.34,Positive
+699,216,RALVΞRO,True,2022-03-06 09:36:25+00:00,34,62,87334,"[{'text': 'Mjölnir', 'indices': [3, 11]}, {'text': 'Uniswap', 'indices': [32, 40]}, {'text': 'ETH', 'indices': [79, 83]}]","So #Mjölnir launched earlier on #Uniswap🦄 They have a massive utility roadmap, #ETH rewards claimable every 24h! Ev… https://t.co/ouXoXfapMp",['so #mjölnir launched earlier on #uniswap🦄 they have a massive utility roadmap #eth rewards claimable every 24h ev… httpstcoouxoxfapmp'],0.0,Neutral,0.223,0.0,0.777,0.5574,Positive
+701,218,David Gokhshtein,True,2022-03-06 22:49:10+00:00,25,261,610961,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH is trending.,['#eth is trending'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+714,231,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+729,246,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+740,257,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+742,259,Bitcoin News,True,2022-03-06 15:23:52+00:00,137,395,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ethereum', 'indices': [60, 69]}]","#Bitcoin remained under the $40,000 level on Sunday, whilst #ethereum hovered above its long-term support level. https://t.co/AEvz6gyZgT",['#bitcoin remained under the 40000 level on sunday whilst #ethereum hovered above its longterm support level httpstcoaevz6gyzgt'],0.0,Neutral,0.144,0.0,0.856,0.4019,Positive
+744,261,JAYE CANE,True,2022-03-06 03:59:07+00:00,245,385,273463,"[{'text': 'WETH', 'indices': [11, 16]}, {'text': 'ETH', 'indices': [78, 82]}]",I have 6.5 #WETH sitting in my OpenSea account I can’t switch it from WETH to #ETH should I just start giving that away ?,['i have 65 #weth sitting in my opensea account i can’t switch it from weth to #eth should i just start giving that away '],0.0,Neutral,0.098,0.0,0.902,0.34,Positive
+746,263,RALVΞRO,True,2022-03-06 09:36:25+00:00,34,62,87334,"[{'text': 'Mjölnir', 'indices': [3, 11]}, {'text': 'Uniswap', 'indices': [32, 40]}, {'text': 'ETH', 'indices': [79, 83]}]","So #Mjölnir launched earlier on #Uniswap🦄 They have a massive utility roadmap, #ETH rewards claimable every 24h! Ev… https://t.co/ouXoXfapMp",['so #mjölnir launched earlier on #uniswap🦄 they have a massive utility roadmap #eth rewards claimable every 24h ev… httpstcoouxoxfapmp'],0.0,Neutral,0.223,0.0,0.777,0.5574,Positive
+748,265,David Gokhshtein,True,2022-03-06 22:49:10+00:00,25,261,610961,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH is trending.,['#eth is trending'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+762,279,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+777,294,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+788,305,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+790,307,Bitcoin News,True,2022-03-06 15:23:52+00:00,137,395,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ethereum', 'indices': [60, 69]}]","#Bitcoin remained under the $40,000 level on Sunday, whilst #ethereum hovered above its long-term support level. https://t.co/AEvz6gyZgT",['#bitcoin remained under the 40000 level on sunday whilst #ethereum hovered above its longterm support level httpstcoaevz6gyzgt'],0.0,Neutral,0.144,0.0,0.856,0.4019,Positive
+792,309,JAYE CANE,True,2022-03-06 03:59:07+00:00,245,385,273463,"[{'text': 'WETH', 'indices': [11, 16]}, {'text': 'ETH', 'indices': [78, 82]}]",I have 6.5 #WETH sitting in my OpenSea account I can’t switch it from WETH to #ETH should I just start giving that away ?,['i have 65 #weth sitting in my opensea account i can’t switch it from weth to #eth should i just start giving that away '],0.0,Neutral,0.098,0.0,0.902,0.34,Positive
+794,311,RALVΞRO,True,2022-03-06 09:36:25+00:00,34,62,87334,"[{'text': 'Mjölnir', 'indices': [3, 11]}, {'text': 'Uniswap', 'indices': [32, 40]}, {'text': 'ETH', 'indices': [79, 83]}]","So #Mjölnir launched earlier on #Uniswap🦄 They have a massive utility roadmap, #ETH rewards claimable every 24h! Ev… https://t.co/ouXoXfapMp",['so #mjölnir launched earlier on #uniswap🦄 they have a massive utility roadmap #eth rewards claimable every 24h ev… httpstcoouxoxfapmp'],0.0,Neutral,0.223,0.0,0.777,0.5574,Positive
+796,313,David Gokhshtein,True,2022-03-06 22:49:10+00:00,25,261,610961,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH is trending.,['#eth is trending'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+810,327,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+825,342,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+836,353,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+838,355,Bitcoin News,True,2022-03-06 15:23:52+00:00,137,395,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ethereum', 'indices': [60, 69]}]","#Bitcoin remained under the $40,000 level on Sunday, whilst #ethereum hovered above its long-term support level. https://t.co/AEvz6gyZgT",['#bitcoin remained under the 40000 level on sunday whilst #ethereum hovered above its longterm support level httpstcoaevz6gyzgt'],0.0,Neutral,0.144,0.0,0.856,0.4019,Positive
+840,357,JAYE CANE,True,2022-03-06 03:59:07+00:00,245,385,273463,"[{'text': 'WETH', 'indices': [11, 16]}, {'text': 'ETH', 'indices': [78, 82]}]",I have 6.5 #WETH sitting in my OpenSea account I can’t switch it from WETH to #ETH should I just start giving that away ?,['i have 65 #weth sitting in my opensea account i can’t switch it from weth to #eth should i just start giving that away '],0.0,Neutral,0.098,0.0,0.902,0.34,Positive
+842,359,RALVΞRO,True,2022-03-06 09:36:25+00:00,34,62,87334,"[{'text': 'Mjölnir', 'indices': [3, 11]}, {'text': 'Uniswap', 'indices': [32, 40]}, {'text': 'ETH', 'indices': [79, 83]}]","So #Mjölnir launched earlier on #Uniswap🦄 They have a massive utility roadmap, #ETH rewards claimable every 24h! Ev… https://t.co/ouXoXfapMp",['so #mjölnir launched earlier on #uniswap🦄 they have a massive utility roadmap #eth rewards claimable every 24h ev… httpstcoouxoxfapmp'],0.0,Neutral,0.223,0.0,0.777,0.5574,Positive
+844,361,David Gokhshtein,True,2022-03-06 22:49:10+00:00,25,261,610961,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH is trending.,['#eth is trending'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+859,376,The Moon,True,2022-03-06 19:09:34+00:00,127,897,1013020,"[{'text': 'crypto', 'indices': [7, 14]}]","Pick a #crypto team:
+
+Team 🅰️              Team 🅱️
+$AXS                     $MANA
+$SOL                     $ETH… https://t.co/nrDpIlsxoP",['pick a #crypto team\r\n\r\nteam 🅰️              team 🅱️\r\naxs                     mana\r\nsol                     eth… httpstconrdpilsxop'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+874,391,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+885,402,Lark Davis,True,2022-03-06 03:41:15+00:00,332,2912,916793,"[{'text': 'bitcoin', 'indices': [44, 52]}, {'text': 'ethereum', 'indices': [54, 63]}]","The three biggest holds in my portfolio are #bitcoin, #ethereum, and $usdc. What are your top three holds 👇",['the three biggest holds in my portfolio are #bitcoin #ethereum and usdc what are your top three holds 👇'],0.5,Positive,0.091,0.0,0.909,0.2023,Positive
+887,404,Bitcoin News,True,2022-03-06 15:23:52+00:00,137,395,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ethereum', 'indices': [60, 69]}]","#Bitcoin remained under the $40,000 level on Sunday, whilst #ethereum hovered above its long-term support level. https://t.co/AEvz6gyZgT",['#bitcoin remained under the 40000 level on sunday whilst #ethereum hovered above its longterm support level httpstcoaevz6gyzgt'],0.0,Neutral,0.144,0.0,0.856,0.4019,Positive
+889,406,JAYE CANE,True,2022-03-06 03:59:07+00:00,245,385,273463,"[{'text': 'WETH', 'indices': [11, 16]}, {'text': 'ETH', 'indices': [78, 82]}]",I have 6.5 #WETH sitting in my OpenSea account I can’t switch it from WETH to #ETH should I just start giving that away ?,['i have 65 #weth sitting in my opensea account i can’t switch it from weth to #eth should i just start giving that away '],0.0,Neutral,0.098,0.0,0.902,0.34,Positive
+891,408,RALVΞRO,True,2022-03-06 09:36:25+00:00,34,62,87334,"[{'text': 'Mjölnir', 'indices': [3, 11]}, {'text': 'Uniswap', 'indices': [32, 40]}, {'text': 'ETH', 'indices': [79, 83]}]","So #Mjölnir launched earlier on #Uniswap🦄 They have a massive utility roadmap, #ETH rewards claimable every 24h! Ev… https://t.co/ouXoXfapMp",['so #mjölnir launched earlier on #uniswap🦄 they have a massive utility roadmap #eth rewards claimable every 24h ev… httpstcoouxoxfapmp'],0.0,Neutral,0.223,0.0,0.777,0.5574,Positive
+893,410,David Gokhshtein,True,2022-03-06 22:49:10+00:00,25,261,610961,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH is trending.,['#eth is trending'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+923,27,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+948,52,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+975,79,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1004,108,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1044,148,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1093,197,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1127,231,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1146,250,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1180,284,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1182,286,JAYE CANE,True,2022-03-07 18:36:35+00:00,661,767,273463,"[{'text': 'ETH', 'indices': [6, 10]}]","$1000 #ETH ? 
+
+Like, Retweet + Follow! 
+prove you have notifications on! ⚡️🔔",['1000 #eth  \r\n\r\nlike retweet  follow \r\nprove you have notifications on ⚡️🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1183,287,JAYE CANE,True,2022-03-07 18:42:22+00:00,508,560,273463,"[{'text': 'ETH', 'indices': [25, 29]}]","I’ll send 1 person 0.151 #ETH or 1.5 ETH or NFT in 24 hours. rt + follow , 🔔",['i’ll send 1 person 0151 #eth or 15 eth or nft in 24 hours rt  follow  🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1184,288,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1185,289,Bitcoin News,True,2022-03-07 15:37:18+00:00,110,282,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ETH', 'indices': [13, 17]}]","#Bitcoin and #ETH consolidated on Monday, following recent declines in the world’s two largest cryptocurrencies. https://t.co/oRjM22nn7t",['#bitcoin and #eth consolidated on monday following recent declines in the world’s two largest cryptocurrencies httpstcoorjm22nn7t'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1186,290,RALVΞRO,True,2022-03-07 21:44:49+00:00,53,79,87334,"[{'text': 'NFTartcollection', 'indices': [37, 54]}, {'text': 'NFT', 'indices': [73, 77]}, {'text': 'ETH', 'indices': [92, 96]}]","This project has some really amazing #NFTartcollection! $SUN Has amazing #NFT Utilities, 5% #ETH reflections!👀 
+Reg… https://t.co/aZjVp7S5kI",['this project has some really amazing #nftartcollection sun has amazing #nft utilities 5 #eth reflections👀 \r\nreg… httpstcoazjvp7s5ki'],0.6000000000000001,Positive,0.369,0.0,0.631,0.8476,Positive
+1187,291,YourPop,True,2022-03-07 19:48:29+00:00,43,433,153998,"[{'text': 'ETH', 'indices': [19, 23]}]",Just got rugged by #ETH 😵😢,['just got rugged by #eth 😵😢'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1189,293,1inch Network,True,2022-03-07 20:10:19+00:00,38,142,1021610,"[{'text': 'ETH', 'indices': [2, 6]}, {'text': '1inch', 'indices': [34, 40]}]","📣 #ETH burned weekly update 📣
+
+🦄🔥 #1inch still takes 10th place in the TOP-10 of the ETH Burn Leaderboard!
+
+🔷… https://t.co/IWEoEuDkmt",['📣 #eth burned weekly update 📣\r\n\r\n🦄🔥 #1inch still takes 10th place in the top10 of the eth burn leaderboard\r\n\r\n🔷… httpstcoiweoeudkmt'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1190,294,DeFi Yield Protocol,True,2022-03-07 10:45:09+00:00,23,35,106506,"[{'text': 'DYP', 'indices': [16, 20]}, {'text': 'ETH', 'indices': [80, 84]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'AVAX', 'indices': [94, 99]}]","🤑 Check out our #DYP Buyback contract! 🙀
+
+✅ Select the network that you prefer, #ETH, #BSC or #AVAX, deposit your… https://t.co/RaaDyeBwZo",['🤑 check out our #dyp buyback contract 🙀\r\n\r\n✅ select the network that you prefer #eth #bsc or #avax deposit your… httpstcoraadyebwzo'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1208,312,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1242,346,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1244,348,JAYE CANE,True,2022-03-07 18:36:35+00:00,661,767,273463,"[{'text': 'ETH', 'indices': [6, 10]}]","$1000 #ETH ? 
+
+Like, Retweet + Follow! 
+prove you have notifications on! ⚡️🔔",['1000 #eth  \r\n\r\nlike retweet  follow \r\nprove you have notifications on ⚡️🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1245,349,JAYE CANE,True,2022-03-07 18:42:22+00:00,508,560,273463,"[{'text': 'ETH', 'indices': [25, 29]}]","I’ll send 1 person 0.151 #ETH or 1.5 ETH or NFT in 24 hours. rt + follow , 🔔",['i’ll send 1 person 0151 #eth or 15 eth or nft in 24 hours rt  follow  🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1246,350,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1247,351,Bitcoin News,True,2022-03-07 15:37:18+00:00,110,282,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ETH', 'indices': [13, 17]}]","#Bitcoin and #ETH consolidated on Monday, following recent declines in the world’s two largest cryptocurrencies. https://t.co/oRjM22nn7t",['#bitcoin and #eth consolidated on monday following recent declines in the world’s two largest cryptocurrencies httpstcoorjm22nn7t'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1248,352,RALVΞRO,True,2022-03-07 21:44:49+00:00,53,79,87334,"[{'text': 'NFTartcollection', 'indices': [37, 54]}, {'text': 'NFT', 'indices': [73, 77]}, {'text': 'ETH', 'indices': [92, 96]}]","This project has some really amazing #NFTartcollection! $SUN Has amazing #NFT Utilities, 5% #ETH reflections!👀 
+Reg… https://t.co/aZjVp7S5kI",['this project has some really amazing #nftartcollection sun has amazing #nft utilities 5 #eth reflections👀 \r\nreg… httpstcoazjvp7s5ki'],0.6000000000000001,Positive,0.369,0.0,0.631,0.8476,Positive
+1249,353,YourPop,True,2022-03-07 19:48:29+00:00,43,433,153998,"[{'text': 'ETH', 'indices': [19, 23]}]",Just got rugged by #ETH 😵😢,['just got rugged by #eth 😵😢'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1251,355,1inch Network,True,2022-03-07 20:10:19+00:00,38,142,1021610,"[{'text': 'ETH', 'indices': [2, 6]}, {'text': '1inch', 'indices': [34, 40]}]","📣 #ETH burned weekly update 📣
+
+🦄🔥 #1inch still takes 10th place in the TOP-10 of the ETH Burn Leaderboard!
+
+🔷… https://t.co/IWEoEuDkmt",['📣 #eth burned weekly update 📣\r\n\r\n🦄🔥 #1inch still takes 10th place in the top10 of the eth burn leaderboard\r\n\r\n🔷… httpstcoiweoeudkmt'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1252,356,DeFi Yield Protocol,True,2022-03-07 10:45:09+00:00,23,35,106506,"[{'text': 'DYP', 'indices': [16, 20]}, {'text': 'ETH', 'indices': [80, 84]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'AVAX', 'indices': [94, 99]}]","🤑 Check out our #DYP Buyback contract! 🙀
+
+✅ Select the network that you prefer, #ETH, #BSC or #AVAX, deposit your… https://t.co/RaaDyeBwZo",['🤑 check out our #dyp buyback contract 🙀\r\n\r\n✅ select the network that you prefer #eth #bsc or #avax deposit your… httpstcoraadyebwzo'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1271,375,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1305,409,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1307,411,JAYE CANE,True,2022-03-07 18:36:35+00:00,661,767,273463,"[{'text': 'ETH', 'indices': [6, 10]}]","$1000 #ETH ? 
+
+Like, Retweet + Follow! 
+prove you have notifications on! ⚡️🔔",['1000 #eth  \r\n\r\nlike retweet  follow \r\nprove you have notifications on ⚡️🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1308,412,JAYE CANE,True,2022-03-07 18:42:22+00:00,508,560,273463,"[{'text': 'ETH', 'indices': [25, 29]}]","I’ll send 1 person 0.151 #ETH or 1.5 ETH or NFT in 24 hours. rt + follow , 🔔",['i’ll send 1 person 0151 #eth or 15 eth or nft in 24 hours rt  follow  🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1309,413,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1310,414,Bitcoin News,True,2022-03-07 15:37:18+00:00,110,282,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ETH', 'indices': [13, 17]}]","#Bitcoin and #ETH consolidated on Monday, following recent declines in the world’s two largest cryptocurrencies. https://t.co/oRjM22nn7t",['#bitcoin and #eth consolidated on monday following recent declines in the world’s two largest cryptocurrencies httpstcoorjm22nn7t'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1311,415,RALVΞRO,True,2022-03-07 21:44:49+00:00,53,79,87334,"[{'text': 'NFTartcollection', 'indices': [37, 54]}, {'text': 'NFT', 'indices': [73, 77]}, {'text': 'ETH', 'indices': [92, 96]}]","This project has some really amazing #NFTartcollection! $SUN Has amazing #NFT Utilities, 5% #ETH reflections!👀 
+Reg… https://t.co/aZjVp7S5kI",['this project has some really amazing #nftartcollection sun has amazing #nft utilities 5 #eth reflections👀 \r\nreg… httpstcoazjvp7s5ki'],0.6000000000000001,Positive,0.369,0.0,0.631,0.8476,Positive
+1312,416,YourPop,True,2022-03-07 19:48:29+00:00,43,433,153998,"[{'text': 'ETH', 'indices': [19, 23]}]",Just got rugged by #ETH 😵😢,['just got rugged by #eth 😵😢'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1314,418,1inch Network,True,2022-03-07 20:10:19+00:00,38,142,1021610,"[{'text': 'ETH', 'indices': [2, 6]}, {'text': '1inch', 'indices': [34, 40]}]","📣 #ETH burned weekly update 📣
+
+🦄🔥 #1inch still takes 10th place in the TOP-10 of the ETH Burn Leaderboard!
+
+🔷… https://t.co/IWEoEuDkmt",['📣 #eth burned weekly update 📣\r\n\r\n🦄🔥 #1inch still takes 10th place in the top10 of the eth burn leaderboard\r\n\r\n🔷… httpstcoiweoeudkmt'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1315,419,DeFi Yield Protocol,True,2022-03-07 10:45:09+00:00,23,35,106506,"[{'text': 'DYP', 'indices': [16, 20]}, {'text': 'ETH', 'indices': [80, 84]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'AVAX', 'indices': [94, 99]}]","🤑 Check out our #DYP Buyback contract! 🙀
+
+✅ Select the network that you prefer, #ETH, #BSC or #AVAX, deposit your… https://t.co/RaaDyeBwZo",['🤑 check out our #dyp buyback contract 🙀\r\n\r\n✅ select the network that you prefer #eth #bsc or #avax deposit your… httpstcoraadyebwzo'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1318,422,DeFi Yield Protocol,True,2022-03-07 10:45:09+00:00,23,35,106506,"[{'text': 'DYP', 'indices': [16, 20]}, {'text': 'ETH', 'indices': [80, 84]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'AVAX', 'indices': [94, 99]}]","🤑 Check out our #DYP Buyback contract! 🙀
+
+✅ Select the network that you prefer, #ETH, #BSC or #AVAX, deposit your… https://t.co/RaaDyeBwZo",['🤑 check out our #dyp buyback contract 🙀\r\n\r\n✅ select the network that you prefer #eth #bsc or #avax deposit your… httpstcoraadyebwzo'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1336,440,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1370,474,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1372,476,JAYE CANE,True,2022-03-07 18:36:35+00:00,661,767,273463,"[{'text': 'ETH', 'indices': [6, 10]}]","$1000 #ETH ? 
+
+Like, Retweet + Follow! 
+prove you have notifications on! ⚡️🔔",['1000 #eth  \r\n\r\nlike retweet  follow \r\nprove you have notifications on ⚡️🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1373,477,JAYE CANE,True,2022-03-07 18:42:22+00:00,508,560,273463,"[{'text': 'ETH', 'indices': [25, 29]}]","I’ll send 1 person 0.151 #ETH or 1.5 ETH or NFT in 24 hours. rt + follow , 🔔",['i’ll send 1 person 0151 #eth or 15 eth or nft in 24 hours rt  follow  🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1374,478,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1375,479,Bitcoin News,True,2022-03-07 15:37:18+00:00,110,282,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ETH', 'indices': [13, 17]}]","#Bitcoin and #ETH consolidated on Monday, following recent declines in the world’s two largest cryptocurrencies. https://t.co/oRjM22nn7t",['#bitcoin and #eth consolidated on monday following recent declines in the world’s two largest cryptocurrencies httpstcoorjm22nn7t'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1376,480,RALVΞRO,True,2022-03-07 21:44:49+00:00,53,79,87334,"[{'text': 'NFTartcollection', 'indices': [37, 54]}, {'text': 'NFT', 'indices': [73, 77]}, {'text': 'ETH', 'indices': [92, 96]}]","This project has some really amazing #NFTartcollection! $SUN Has amazing #NFT Utilities, 5% #ETH reflections!👀 
+Reg… https://t.co/aZjVp7S5kI",['this project has some really amazing #nftartcollection sun has amazing #nft utilities 5 #eth reflections👀 \r\nreg… httpstcoazjvp7s5ki'],0.6000000000000001,Positive,0.369,0.0,0.631,0.8476,Positive
+1377,481,YourPop,True,2022-03-07 19:48:29+00:00,43,433,153998,"[{'text': 'ETH', 'indices': [19, 23]}]",Just got rugged by #ETH 😵😢,['just got rugged by #eth 😵😢'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1379,483,1inch Network,True,2022-03-07 20:10:19+00:00,38,142,1021610,"[{'text': 'ETH', 'indices': [2, 6]}, {'text': '1inch', 'indices': [34, 40]}]","📣 #ETH burned weekly update 📣
+
+🦄🔥 #1inch still takes 10th place in the TOP-10 of the ETH Burn Leaderboard!
+
+🔷… https://t.co/IWEoEuDkmt",['📣 #eth burned weekly update 📣\r\n\r\n🦄🔥 #1inch still takes 10th place in the top10 of the eth burn leaderboard\r\n\r\n🔷… httpstcoiweoeudkmt'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1380,484,DeFi Yield Protocol,True,2022-03-07 10:45:09+00:00,23,35,106506,"[{'text': 'DYP', 'indices': [16, 20]}, {'text': 'ETH', 'indices': [80, 84]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'AVAX', 'indices': [94, 99]}]","🤑 Check out our #DYP Buyback contract! 🙀
+
+✅ Select the network that you prefer, #ETH, #BSC or #AVAX, deposit your… https://t.co/RaaDyeBwZo",['🤑 check out our #dyp buyback contract 🙀\r\n\r\n✅ select the network that you prefer #eth #bsc or #avax deposit your… httpstcoraadyebwzo'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1383,487,DeFi Yield Protocol,True,2022-03-07 10:45:09+00:00,23,35,106506,"[{'text': 'DYP', 'indices': [16, 20]}, {'text': 'ETH', 'indices': [80, 84]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'AVAX', 'indices': [94, 99]}]","🤑 Check out our #DYP Buyback contract! 🙀
+
+✅ Select the network that you prefer, #ETH, #BSC or #AVAX, deposit your… https://t.co/RaaDyeBwZo",['🤑 check out our #dyp buyback contract 🙀\r\n\r\n✅ select the network that you prefer #eth #bsc or #avax deposit your… httpstcoraadyebwzo'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1405,509,The Moon,True,2022-03-07 08:31:01+00:00,308,2796,1013019,"[{'text': 'crypto', 'indices': [25, 32]}]","If you could have $1M in #crypto but it’s locked for 10 years, what would you choose?
+
+$SOL       $ETH         $BTC… https://t.co/foDmILlhXQ",['if you could have 1m in #crypto but it’s locked for 10 years what would you choose\r\n\r\nsol       eth         btc… httpstcofodmillhxq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1439,543,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1441,545,JAYE CANE,True,2022-03-07 18:36:35+00:00,661,767,273463,"[{'text': 'ETH', 'indices': [6, 10]}]","$1000 #ETH ? 
+
+Like, Retweet + Follow! 
+prove you have notifications on! ⚡️🔔",['1000 #eth  \r\n\r\nlike retweet  follow \r\nprove you have notifications on ⚡️🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1442,546,JAYE CANE,True,2022-03-07 18:42:22+00:00,508,560,273463,"[{'text': 'ETH', 'indices': [25, 29]}]","I’ll send 1 person 0.151 #ETH or 1.5 ETH or NFT in 24 hours. rt + follow , 🔔",['i’ll send 1 person 0151 #eth or 15 eth or nft in 24 hours rt  follow  🔔'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1443,547,Watcher.Guru,True,2022-03-07 23:58:57+00:00,232,1534,708059,"[{'text': 'Ethereum', 'indices': [33, 42]}, {'text': 'ETH', 'indices': [64, 68]}]","JUST IN: 🇺🇦 Ukraine’s government #Ethereum wallet reaches 7,000 #ETH donated.",['just in 🇺🇦 ukraine’s government #ethereum wallet reaches 7000 #eth donated'],0.0,Neutral,0.107,0.0,0.893,0.0516,Positive
+1444,548,Bitcoin News,True,2022-03-07 15:37:18+00:00,110,282,2437100,"[{'text': 'Bitcoin', 'indices': [0, 8]}, {'text': 'ETH', 'indices': [13, 17]}]","#Bitcoin and #ETH consolidated on Monday, following recent declines in the world’s two largest cryptocurrencies. https://t.co/oRjM22nn7t",['#bitcoin and #eth consolidated on monday following recent declines in the world’s two largest cryptocurrencies httpstcoorjm22nn7t'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1445,549,RALVΞRO,True,2022-03-07 21:44:49+00:00,53,79,87334,"[{'text': 'NFTartcollection', 'indices': [37, 54]}, {'text': 'NFT', 'indices': [73, 77]}, {'text': 'ETH', 'indices': [92, 96]}]","This project has some really amazing #NFTartcollection! $SUN Has amazing #NFT Utilities, 5% #ETH reflections!👀 
+Reg… https://t.co/aZjVp7S5kI",['this project has some really amazing #nftartcollection sun has amazing #nft utilities 5 #eth reflections👀 \r\nreg… httpstcoazjvp7s5ki'],0.6000000000000001,Positive,0.369,0.0,0.631,0.8476,Positive
+1446,550,YourPop,True,2022-03-07 19:48:29+00:00,43,433,153998,"[{'text': 'ETH', 'indices': [19, 23]}]",Just got rugged by #ETH 😵😢,['just got rugged by #eth 😵😢'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1448,552,1inch Network,True,2022-03-07 20:10:19+00:00,38,142,1021610,"[{'text': 'ETH', 'indices': [2, 6]}, {'text': '1inch', 'indices': [34, 40]}]","📣 #ETH burned weekly update 📣
+
+🦄🔥 #1inch still takes 10th place in the TOP-10 of the ETH Burn Leaderboard!
+
+🔷… https://t.co/IWEoEuDkmt",['📣 #eth burned weekly update 📣\r\n\r\n🦄🔥 #1inch still takes 10th place in the top10 of the eth burn leaderboard\r\n\r\n🔷… httpstcoiweoeudkmt'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1449,553,DeFi Yield Protocol,True,2022-03-07 10:45:09+00:00,23,35,106506,"[{'text': 'DYP', 'indices': [16, 20]}, {'text': 'ETH', 'indices': [80, 84]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'AVAX', 'indices': [94, 99]}]","🤑 Check out our #DYP Buyback contract! 🙀
+
+✅ Select the network that you prefer, #ETH, #BSC or #AVAX, deposit your… https://t.co/RaaDyeBwZo",['🤑 check out our #dyp buyback contract 🙀\r\n\r\n✅ select the network that you prefer #eth #bsc or #avax deposit your… httpstcoraadyebwzo'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1452,556,DeFi Yield Protocol,True,2022-03-07 10:45:09+00:00,23,35,106506,"[{'text': 'DYP', 'indices': [16, 20]}, {'text': 'ETH', 'indices': [80, 84]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'AVAX', 'indices': [94, 99]}]","🤑 Check out our #DYP Buyback contract! 🙀
+
+✅ Select the network that you prefer, #ETH, #BSC or #AVAX, deposit your… https://t.co/RaaDyeBwZo",['🤑 check out our #dyp buyback contract 🙀\r\n\r\n✅ select the network that you prefer #eth #bsc or #avax deposit your… httpstcoraadyebwzo'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1633,174,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1635,176,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1680,221,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1682,223,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1733,274,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1735,276,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1745,286,Cory Betts,True,2022-03-08 02:04:48+00:00,1530,1580,86673,"[{'text': 'ETH', 'indices': [54, 58]}]","I’ve teamed up with @metafrogclub to giveaway $250 in #ETH + 5 WL spots!
+
+👉 Follow @metafrogclub  (🔔)
+👉 Like + Retw… https://t.co/5TuAf8iy3N",['i’ve teamed up with @metafrogclub to giveaway 250 in #eth  5 wl spots\r\n\r\n👉 follow @metafrogclub  🔔\r\n👉 like  retw… httpstco5tuaf8iy3n'],0.0,Neutral,0.128,0.0,0.872,0.3612,Positive
+1746,287,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1747,288,CRYPTO GIRL,True,2022-03-08 22:55:19+00:00,241,1558,112795,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH holders are used to these gas prices 😂🤦🏻‍♀️,['#eth holders are used to these gas prices 😂🤦🏻\u200d♀️'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1748,289,Harmony 💙,True,2022-03-08 18:01:30+00:00,53,187,372911,"[{'text': 'ETH', 'indices': [77, 81]}]","1/ Last month, the @harmonyprotocol team was at @EthereumDenver, the biggest #ETH event in the world, with hundreds… https://t.co/9phA3qL7Rn",['1 last month the @harmonyprotocol team was at @ethereumdenver the biggest #eth event in the world with hundreds… httpstco9pha3ql7rn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1749,290,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1750,291,coindesk JAPAN,True,2022-03-08 22:07:33+00:00,34,141,20592,"[{'text': 'coindeskjapan', 'indices': [33, 47]}, {'text': 'Cega', 'indices': [48, 53]}, {'text': 'DeFiとは', 'indices': [54, 61]}, {'text': '分散型金融とは', 'indices': [62, 70]}, {'text': 'イーサリアム', 'indices': [71, 78]}, {'text': 'ETH', 'indices': [79, 83]}]",豊崎氏率いるDeFiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #Cega #DeFiとは #分散型金融とは #イーサリアム #ETH  https://t.co/kXKFhfsF6Q,['豊崎氏率いるdefiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #cega #defiとは #分散型金融とは #イーサリアム #eth  httpstcokxkfhfsf6q'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1752,293,Doc Hollywood,True,2022-03-08 16:37:28+00:00,22,122,32930,"[{'text': 'ETH', 'indices': [27, 31]}, {'text': 'BuildSOLETH', 'indices': [44, 56]}, {'text': 'Solana', 'indices': [59, 66]}]",Who’s the best dev team on #ETH? Go @ them 👇#BuildSOLETH 🌉 #Solana,['who’s the best dev team on #eth go @ them 👇#buildsoleth 🌉 #solana'],1.0,Positive,0.296,0.0,0.704,0.6369,Positive
+1794,335,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1796,337,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1806,347,Cory Betts,True,2022-03-08 02:04:48+00:00,1530,1580,86673,"[{'text': 'ETH', 'indices': [54, 58]}]","I’ve teamed up with @metafrogclub to giveaway $250 in #ETH + 5 WL spots!
+
+👉 Follow @metafrogclub  (🔔)
+👉 Like + Retw… https://t.co/5TuAf8iy3N",['i’ve teamed up with @metafrogclub to giveaway 250 in #eth  5 wl spots\r\n\r\n👉 follow @metafrogclub  🔔\r\n👉 like  retw… httpstco5tuaf8iy3n'],0.0,Neutral,0.128,0.0,0.872,0.3612,Positive
+1807,348,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1808,349,CRYPTO GIRL,True,2022-03-08 22:55:19+00:00,241,1558,112795,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH holders are used to these gas prices 😂🤦🏻‍♀️,['#eth holders are used to these gas prices 😂🤦🏻\u200d♀️'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1809,350,Harmony 💙,True,2022-03-08 18:01:30+00:00,53,187,372911,"[{'text': 'ETH', 'indices': [77, 81]}]","1/ Last month, the @harmonyprotocol team was at @EthereumDenver, the biggest #ETH event in the world, with hundreds… https://t.co/9phA3qL7Rn",['1 last month the @harmonyprotocol team was at @ethereumdenver the biggest #eth event in the world with hundreds… httpstco9pha3ql7rn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1810,351,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1811,352,coindesk JAPAN,True,2022-03-08 22:07:33+00:00,34,141,20592,"[{'text': 'coindeskjapan', 'indices': [33, 47]}, {'text': 'Cega', 'indices': [48, 53]}, {'text': 'DeFiとは', 'indices': [54, 61]}, {'text': '分散型金融とは', 'indices': [62, 70]}, {'text': 'イーサリアム', 'indices': [71, 78]}, {'text': 'ETH', 'indices': [79, 83]}]",豊崎氏率いるDeFiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #Cega #DeFiとは #分散型金融とは #イーサリアム #ETH  https://t.co/kXKFhfsF6Q,['豊崎氏率いるdefiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #cega #defiとは #分散型金融とは #イーサリアム #eth  httpstcokxkfhfsf6q'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1813,354,Doc Hollywood,True,2022-03-08 16:37:28+00:00,22,122,32930,"[{'text': 'ETH', 'indices': [27, 31]}, {'text': 'BuildSOLETH', 'indices': [44, 56]}, {'text': 'Solana', 'indices': [59, 66]}]",Who’s the best dev team on #ETH? Go @ them 👇#BuildSOLETH 🌉 #Solana,['who’s the best dev team on #eth go @ them 👇#buildsoleth 🌉 #solana'],1.0,Positive,0.296,0.0,0.704,0.6369,Positive
+1857,398,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1859,400,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1869,410,Cory Betts,True,2022-03-08 02:04:48+00:00,1530,1580,86673,"[{'text': 'ETH', 'indices': [54, 58]}]","I’ve teamed up with @metafrogclub to giveaway $250 in #ETH + 5 WL spots!
+
+👉 Follow @metafrogclub  (🔔)
+👉 Like + Retw… https://t.co/5TuAf8iy3N",['i’ve teamed up with @metafrogclub to giveaway 250 in #eth  5 wl spots\r\n\r\n👉 follow @metafrogclub  🔔\r\n👉 like  retw… httpstco5tuaf8iy3n'],0.0,Neutral,0.128,0.0,0.872,0.3612,Positive
+1870,411,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1871,412,CRYPTO GIRL,True,2022-03-08 22:55:19+00:00,241,1558,112795,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH holders are used to these gas prices 😂🤦🏻‍♀️,['#eth holders are used to these gas prices 😂🤦🏻\u200d♀️'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1872,413,Harmony 💙,True,2022-03-08 18:01:30+00:00,53,187,372911,"[{'text': 'ETH', 'indices': [77, 81]}]","1/ Last month, the @harmonyprotocol team was at @EthereumDenver, the biggest #ETH event in the world, with hundreds… https://t.co/9phA3qL7Rn",['1 last month the @harmonyprotocol team was at @ethereumdenver the biggest #eth event in the world with hundreds… httpstco9pha3ql7rn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1873,414,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1874,415,coindesk JAPAN,True,2022-03-08 22:07:33+00:00,34,141,20592,"[{'text': 'coindeskjapan', 'indices': [33, 47]}, {'text': 'Cega', 'indices': [48, 53]}, {'text': 'DeFiとは', 'indices': [54, 61]}, {'text': '分散型金融とは', 'indices': [62, 70]}, {'text': 'イーサリアム', 'indices': [71, 78]}, {'text': 'ETH', 'indices': [79, 83]}]",豊崎氏率いるDeFiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #Cega #DeFiとは #分散型金融とは #イーサリアム #ETH  https://t.co/kXKFhfsF6Q,['豊崎氏率いるdefiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #cega #defiとは #分散型金融とは #イーサリアム #eth  httpstcokxkfhfsf6q'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1876,417,Doc Hollywood,True,2022-03-08 16:37:28+00:00,22,122,32930,"[{'text': 'ETH', 'indices': [27, 31]}, {'text': 'BuildSOLETH', 'indices': [44, 56]}, {'text': 'Solana', 'indices': [59, 66]}]",Who’s the best dev team on #ETH? Go @ them 👇#BuildSOLETH 🌉 #Solana,['who’s the best dev team on #eth go @ them 👇#buildsoleth 🌉 #solana'],1.0,Positive,0.296,0.0,0.704,0.6369,Positive
+1920,461,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1922,463,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1932,473,Cory Betts,True,2022-03-08 02:04:48+00:00,1530,1580,86673,"[{'text': 'ETH', 'indices': [54, 58]}]","I’ve teamed up with @metafrogclub to giveaway $250 in #ETH + 5 WL spots!
+
+👉 Follow @metafrogclub  (🔔)
+👉 Like + Retw… https://t.co/5TuAf8iy3N",['i’ve teamed up with @metafrogclub to giveaway 250 in #eth  5 wl spots\r\n\r\n👉 follow @metafrogclub  🔔\r\n👉 like  retw… httpstco5tuaf8iy3n'],0.0,Neutral,0.128,0.0,0.872,0.3612,Positive
+1933,474,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1934,475,CRYPTO GIRL,True,2022-03-08 22:55:19+00:00,241,1558,112795,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH holders are used to these gas prices 😂🤦🏻‍♀️,['#eth holders are used to these gas prices 😂🤦🏻\u200d♀️'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1935,476,Harmony 💙,True,2022-03-08 18:01:30+00:00,53,187,372911,"[{'text': 'ETH', 'indices': [77, 81]}]","1/ Last month, the @harmonyprotocol team was at @EthereumDenver, the biggest #ETH event in the world, with hundreds… https://t.co/9phA3qL7Rn",['1 last month the @harmonyprotocol team was at @ethereumdenver the biggest #eth event in the world with hundreds… httpstco9pha3ql7rn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1936,477,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1937,478,coindesk JAPAN,True,2022-03-08 22:07:33+00:00,34,141,20592,"[{'text': 'coindeskjapan', 'indices': [33, 47]}, {'text': 'Cega', 'indices': [48, 53]}, {'text': 'DeFiとは', 'indices': [54, 61]}, {'text': '分散型金融とは', 'indices': [62, 70]}, {'text': 'イーサリアム', 'indices': [71, 78]}, {'text': 'ETH', 'indices': [79, 83]}]",豊崎氏率いるDeFiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #Cega #DeFiとは #分散型金融とは #イーサリアム #ETH  https://t.co/kXKFhfsF6Q,['豊崎氏率いるdefiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #cega #defiとは #分散型金融とは #イーサリアム #eth  httpstcokxkfhfsf6q'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1939,480,Doc Hollywood,True,2022-03-08 16:37:28+00:00,22,122,32930,"[{'text': 'ETH', 'indices': [27, 31]}, {'text': 'BuildSOLETH', 'indices': [44, 56]}, {'text': 'Solana', 'indices': [59, 66]}]",Who’s the best dev team on #ETH? Go @ them 👇#BuildSOLETH 🌉 #Solana,['who’s the best dev team on #eth go @ them 👇#buildsoleth 🌉 #solana'],1.0,Positive,0.296,0.0,0.704,0.6369,Positive
+1944,485,Doc Hollywood,True,2022-03-08 16:37:28+00:00,22,122,32930,"[{'text': 'ETH', 'indices': [27, 31]}, {'text': 'BuildSOLETH', 'indices': [44, 56]}, {'text': 'Solana', 'indices': [59, 66]}]",Who’s the best dev team on #ETH? Go @ them 👇#BuildSOLETH 🌉 #Solana,['who’s the best dev team on #eth go @ them 👇#buildsoleth 🌉 #solana'],1.0,Positive,0.296,0.0,0.704,0.6369,Positive
+1986,527,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+1988,529,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+1998,539,Cory Betts,True,2022-03-08 02:04:48+00:00,1530,1580,86673,"[{'text': 'ETH', 'indices': [54, 58]}]","I’ve teamed up with @metafrogclub to giveaway $250 in #ETH + 5 WL spots!
+
+👉 Follow @metafrogclub  (🔔)
+👉 Like + Retw… https://t.co/5TuAf8iy3N",['i’ve teamed up with @metafrogclub to giveaway 250 in #eth  5 wl spots\r\n\r\n👉 follow @metafrogclub  🔔\r\n👉 like  retw… httpstco5tuaf8iy3n'],0.0,Neutral,0.128,0.0,0.872,0.3612,Positive
+1999,540,Túlio,True,2022-03-08 13:12:15+00:00,243,267,840626,"[{'text': 'BSC', 'indices': [51, 55]}, {'text': 'BSCGem', 'indices': [56, 63]}, {'text': 'BTC', 'indices': [66, 70]}, {'text': 'ETH', 'indices': [72, 76]}, {'text': 'BNB', 'indices': [77, 81]}, {'text': 'Altcoin', 'indices': [83, 91]}, {'text': 'Memecoin', 'indices': [92, 101]}, {'text': 'Metaverse', 'indices': [102, 112]}, {'text': 'NFTs', 'indices': [113, 118]}, {'text': 'P2E', 'indices': [119, 123]}, {'text': 'GameFi', 'indices': [124, 131]}]","Good Morning Fam! 
+
+what are you buying today? 💹👇🏻 #BSC #BSCGem 
+
+#BTC  #ETH #BNB  #Altcoin #Memecoin #Metaverse #NFTs #P2E #GameFi",['good morning fam \r\n\r\nwhat are you buying today 💹👇🏻 #bsc #bscgem \r\n\r\n#btc\xa0 #eth #bnb\xa0 #altcoin #memecoin #metaverse #nfts #p2e #gamefi'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+2000,541,CRYPTO GIRL,True,2022-03-08 22:55:19+00:00,241,1558,112795,"[{'text': 'ETH', 'indices': [0, 4]}]",#ETH holders are used to these gas prices 😂🤦🏻‍♀️,['#eth holders are used to these gas prices 😂🤦🏻\u200d♀️'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2001,542,Harmony 💙,True,2022-03-08 18:01:30+00:00,53,187,372911,"[{'text': 'ETH', 'indices': [77, 81]}]","1/ Last month, the @harmonyprotocol team was at @EthereumDenver, the biggest #ETH event in the world, with hundreds… https://t.co/9phA3qL7Rn",['1 last month the @harmonyprotocol team was at @ethereumdenver the biggest #eth event in the world with hundreds… httpstco9pha3ql7rn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2002,543,Bitcoin News,True,2022-03-08 15:30:33+00:00,67,181,2437100,"[{'text': 'ETH', 'indices': [0, 4]}, {'text': 'BTC', 'indices': [6, 10]}, {'text': 'Gold', 'indices': [39, 44]}, {'text': 'Oil', 'indices': [49, 53]}]","#ETH, #BTC continue to consolidate, as #Gold and #Oil prices move towards new highs. https://t.co/p0PmagEKJm",['#eth #btc continue to consolidate as #gold and #oil prices move towards new highs httpstcop0pmagekjm'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+2003,544,coindesk JAPAN,True,2022-03-08 22:07:33+00:00,34,141,20592,"[{'text': 'coindeskjapan', 'indices': [33, 47]}, {'text': 'Cega', 'indices': [48, 53]}, {'text': 'DeFiとは', 'indices': [54, 61]}, {'text': '分散型金融とは', 'indices': [62, 70]}, {'text': 'イーサリアム', 'indices': [71, 78]}, {'text': 'ETH', 'indices': [79, 83]}]",豊崎氏率いるDeFiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #Cega #DeFiとは #分散型金融とは #イーサリアム #ETH  https://t.co/kXKFhfsF6Q,['豊崎氏率いるdefiが資金調達──グーグル辞めてクリプトにダイブ #coindeskjapan #cega #defiとは #分散型金融とは #イーサリアム #eth  httpstcokxkfhfsf6q'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2005,546,Doc Hollywood,True,2022-03-08 16:37:28+00:00,22,122,32930,"[{'text': 'ETH', 'indices': [27, 31]}, {'text': 'BuildSOLETH', 'indices': [44, 56]}, {'text': 'Solana', 'indices': [59, 66]}]",Who’s the best dev team on #ETH? Go @ them 👇#BuildSOLETH 🌉 #Solana,['who’s the best dev team on #eth go @ them 👇#buildsoleth 🌉 #solana'],1.0,Positive,0.296,0.0,0.704,0.6369,Positive
+2010,551,Doc Hollywood,True,2022-03-08 16:37:28+00:00,22,122,32930,"[{'text': 'ETH', 'indices': [27, 31]}, {'text': 'BuildSOLETH', 'indices': [44, 56]}, {'text': 'Solana', 'indices': [59, 66]}]",Who’s the best dev team on #ETH? Go @ them 👇#BuildSOLETH 🌉 #Solana,['who’s the best dev team on #eth go @ them 👇#buildsoleth 🌉 #solana'],1.0,Positive,0.296,0.0,0.704,0.6369,Positive
+2222,211,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2285,274,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2293,282,Bitcoin News,True,2022-03-09 20:02:47+00:00,60,162,2437100,"[{'text': 'ethereum', 'indices': [82, 91]}]","On March 8, the team behind the Bored Ape Yacht Club (BAYC) donated $1 million in #ethereum to the Ukraine governme… https://t.co/4JU7BGYOvv",['on march 8 the team behind the bored ape yacht club bayc donated 1 million in #ethereum to the ukraine governme… httpstco4ju7bgyovv'],-0.45,Negative,0.0,0.1,0.9,-0.2732,Negative
+2296,285,Lark Davis,True,2022-03-09 08:15:00+00:00,149,631,916794,"[{'text': 'ethereum', 'indices': [23, 32]}]","Goldman Sachs to offer #ethereum fund to clients. 
+
+https://t.co/z7JvC7ml3F",['goldman sachs to offer #ethereum fund to clients \r\n\r\nhttpstcoz7jvc7ml3f'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2357,346,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2365,354,Bitcoin News,True,2022-03-09 20:02:47+00:00,60,162,2437100,"[{'text': 'ethereum', 'indices': [82, 91]}]","On March 8, the team behind the Bored Ape Yacht Club (BAYC) donated $1 million in #ethereum to the Ukraine governme… https://t.co/4JU7BGYOvv",['on march 8 the team behind the bored ape yacht club bayc donated 1 million in #ethereum to the ukraine governme… httpstco4ju7bgyovv'],-0.45,Negative,0.0,0.1,0.9,-0.2732,Negative
+2368,357,Lark Davis,True,2022-03-09 08:15:00+00:00,149,631,916794,"[{'text': 'ethereum', 'indices': [23, 32]}]","Goldman Sachs to offer #ethereum fund to clients. 
+
+https://t.co/z7JvC7ml3F",['goldman sachs to offer #ethereum fund to clients \r\n\r\nhttpstcoz7jvc7ml3f'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2372,361,Nicolas Maiques,True,2022-03-09 22:35:53+00:00,95,316,98658,"[{'text': 'GEM', 'indices': [20, 24]}, {'text': 'BSC', 'indices': [101, 105]}, {'text': 'ETH', 'indices': [106, 110]}]","🚨 SHILL ME the NEXT #GEM to do a 100x !! 👀💎
+
+PUT Notifications ON 🔔 if you don't want to miss out!✅
+
+#BSC #ETH… https://t.co/taKgkQI5TI",['🚨 shill me the next #gem to do a 100x  👀💎\r\n\r\nput notifications on 🔔 if you dont want to miss out✅\r\n\r\n#bsc #eth… httpstcotakgkqi5ti'],0.0,Neutral,0.067,0.056,0.877,0.0572,Positive
+2375,364,Klever,True,2022-03-09 18:14:06+00:00,90,263,269605,"[{'text': 'Reef', 'indices': [80, 85]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'ETH', 'indices': [100, 104]}]","There are no barriers in this @ReefDeFi &amp; @klever_io  partnership 🤝
+
+👉 Swap #Reef #BSC and Reef #ETH to Reef Mainne… https://t.co/YovSBnRzp9",['there are no barriers in this @reefdefi amp @kleverio  partnership 🤝\r\n\r\n👉 swap #reef #bsc and reef #eth to reef mainne… httpstcoyovsbnrzp9'],0.0,Neutral,0.0,0.099,0.901,-0.296,Negative
+2376,365,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2377,366,The Moon,True,2022-03-09 04:35:51+00:00,93,552,1013020,"[{'text': 'BAYC', 'indices': [30, 35]}, {'text': 'ETH', 'indices': [56, 60]}, {'text': 'Ukraine', 'indices': [64, 72]}]",JUST IN: Bored Ape Yacht Club #BAYC has donated 388.999 #ETH to #Ukraine! 🇺🇦,['just in bored ape yacht club #bayc has donated 388999 #eth to #ukraine 🇺🇦'],-0.5,Negative,0.0,0.139,0.861,-0.2732,Negative
+2379,368,DeFi Yield Protocol,True,2022-03-09 11:08:11+00:00,23,44,106506,"[{'text': 'Passiveincome', 'indices': [3, 17]}, {'text': 'DYP', 'indices': [35, 39]}, {'text': 'ETH', 'indices': [98, 102]}, {'text': 'BSC', 'indices': [104, 108]}]","1/ #Passiveincome at its best with #DYP! 👌🏽
+
+👀 Our contracts are available on all major networks: #ETH, #BSC and… https://t.co/6m2wRn1pIg",['1 #passiveincome at its best with #dyp 👌🏽\r\n\r\n👀 our contracts are available on all major networks #eth #bsc and… httpstco6m2wrn1pig'],0.4875,Positive,0.181,0.0,0.819,0.6369,Positive
+2438,427,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2446,435,Bitcoin News,True,2022-03-09 20:02:47+00:00,60,162,2437100,"[{'text': 'ethereum', 'indices': [82, 91]}]","On March 8, the team behind the Bored Ape Yacht Club (BAYC) donated $1 million in #ethereum to the Ukraine governme… https://t.co/4JU7BGYOvv",['on march 8 the team behind the bored ape yacht club bayc donated 1 million in #ethereum to the ukraine governme… httpstco4ju7bgyovv'],-0.45,Negative,0.0,0.1,0.9,-0.2732,Negative
+2449,438,Lark Davis,True,2022-03-09 08:15:00+00:00,149,631,916794,"[{'text': 'ethereum', 'indices': [23, 32]}]","Goldman Sachs to offer #ethereum fund to clients. 
+
+https://t.co/z7JvC7ml3F",['goldman sachs to offer #ethereum fund to clients \r\n\r\nhttpstcoz7jvc7ml3f'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2453,442,Nicolas Maiques,True,2022-03-09 22:35:53+00:00,95,316,98658,"[{'text': 'GEM', 'indices': [20, 24]}, {'text': 'BSC', 'indices': [101, 105]}, {'text': 'ETH', 'indices': [106, 110]}]","🚨 SHILL ME the NEXT #GEM to do a 100x !! 👀💎
+
+PUT Notifications ON 🔔 if you don't want to miss out!✅
+
+#BSC #ETH… https://t.co/taKgkQI5TI",['🚨 shill me the next #gem to do a 100x  👀💎\r\n\r\nput notifications on 🔔 if you dont want to miss out✅\r\n\r\n#bsc #eth… httpstcotakgkqi5ti'],0.0,Neutral,0.067,0.056,0.877,0.0572,Positive
+2456,445,Klever,True,2022-03-09 18:14:06+00:00,90,263,269605,"[{'text': 'Reef', 'indices': [80, 85]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'ETH', 'indices': [100, 104]}]","There are no barriers in this @ReefDeFi &amp; @klever_io  partnership 🤝
+
+👉 Swap #Reef #BSC and Reef #ETH to Reef Mainne… https://t.co/YovSBnRzp9",['there are no barriers in this @reefdefi amp @kleverio  partnership 🤝\r\n\r\n👉 swap #reef #bsc and reef #eth to reef mainne… httpstcoyovsbnrzp9'],0.0,Neutral,0.0,0.099,0.901,-0.296,Negative
+2457,446,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2458,447,The Moon,True,2022-03-09 04:35:51+00:00,93,552,1013020,"[{'text': 'BAYC', 'indices': [30, 35]}, {'text': 'ETH', 'indices': [56, 60]}, {'text': 'Ukraine', 'indices': [64, 72]}]",JUST IN: Bored Ape Yacht Club #BAYC has donated 388.999 #ETH to #Ukraine! 🇺🇦,['just in bored ape yacht club #bayc has donated 388999 #eth to #ukraine 🇺🇦'],-0.5,Negative,0.0,0.139,0.861,-0.2732,Negative
+2460,449,DeFi Yield Protocol,True,2022-03-09 11:08:11+00:00,23,44,106506,"[{'text': 'Passiveincome', 'indices': [3, 17]}, {'text': 'DYP', 'indices': [35, 39]}, {'text': 'ETH', 'indices': [98, 102]}, {'text': 'BSC', 'indices': [104, 108]}]","1/ #Passiveincome at its best with #DYP! 👌🏽
+
+👀 Our contracts are available on all major networks: #ETH, #BSC and… https://t.co/6m2wRn1pIg",['1 #passiveincome at its best with #dyp 👌🏽\r\n\r\n👀 our contracts are available on all major networks #eth #bsc and… httpstco6m2wrn1pig'],0.4875,Positive,0.181,0.0,0.819,0.6369,Positive
+2520,509,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2528,517,Bitcoin News,True,2022-03-09 20:02:47+00:00,60,162,2437100,"[{'text': 'ethereum', 'indices': [82, 91]}]","On March 8, the team behind the Bored Ape Yacht Club (BAYC) donated $1 million in #ethereum to the Ukraine governme… https://t.co/4JU7BGYOvv",['on march 8 the team behind the bored ape yacht club bayc donated 1 million in #ethereum to the ukraine governme… httpstco4ju7bgyovv'],-0.45,Negative,0.0,0.1,0.9,-0.2732,Negative
+2531,520,Lark Davis,True,2022-03-09 08:15:00+00:00,149,631,916794,"[{'text': 'ethereum', 'indices': [23, 32]}]","Goldman Sachs to offer #ethereum fund to clients. 
+
+https://t.co/z7JvC7ml3F",['goldman sachs to offer #ethereum fund to clients \r\n\r\nhttpstcoz7jvc7ml3f'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2535,524,Nicolas Maiques,True,2022-03-09 22:35:53+00:00,95,316,98658,"[{'text': 'GEM', 'indices': [20, 24]}, {'text': 'BSC', 'indices': [101, 105]}, {'text': 'ETH', 'indices': [106, 110]}]","🚨 SHILL ME the NEXT #GEM to do a 100x !! 👀💎
+
+PUT Notifications ON 🔔 if you don't want to miss out!✅
+
+#BSC #ETH… https://t.co/taKgkQI5TI",['🚨 shill me the next #gem to do a 100x  👀💎\r\n\r\nput notifications on 🔔 if you dont want to miss out✅\r\n\r\n#bsc #eth… httpstcotakgkqi5ti'],0.0,Neutral,0.067,0.056,0.877,0.0572,Positive
+2538,527,Klever,True,2022-03-09 18:14:06+00:00,90,263,269605,"[{'text': 'Reef', 'indices': [80, 85]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'ETH', 'indices': [100, 104]}]","There are no barriers in this @ReefDeFi &amp; @klever_io  partnership 🤝
+
+👉 Swap #Reef #BSC and Reef #ETH to Reef Mainne… https://t.co/YovSBnRzp9",['there are no barriers in this @reefdefi amp @kleverio  partnership 🤝\r\n\r\n👉 swap #reef #bsc and reef #eth to reef mainne… httpstcoyovsbnrzp9'],0.0,Neutral,0.0,0.099,0.901,-0.296,Negative
+2539,528,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2540,529,The Moon,True,2022-03-09 04:35:51+00:00,93,552,1013020,"[{'text': 'BAYC', 'indices': [30, 35]}, {'text': 'ETH', 'indices': [56, 60]}, {'text': 'Ukraine', 'indices': [64, 72]}]",JUST IN: Bored Ape Yacht Club #BAYC has donated 388.999 #ETH to #Ukraine! 🇺🇦,['just in bored ape yacht club #bayc has donated 388999 #eth to #ukraine 🇺🇦'],-0.5,Negative,0.0,0.139,0.861,-0.2732,Negative
+2542,531,DeFi Yield Protocol,True,2022-03-09 11:08:11+00:00,23,44,106506,"[{'text': 'Passiveincome', 'indices': [3, 17]}, {'text': 'DYP', 'indices': [35, 39]}, {'text': 'ETH', 'indices': [98, 102]}, {'text': 'BSC', 'indices': [104, 108]}]","1/ #Passiveincome at its best with #DYP! 👌🏽
+
+👀 Our contracts are available on all major networks: #ETH, #BSC and… https://t.co/6m2wRn1pIg",['1 #passiveincome at its best with #dyp 👌🏽\r\n\r\n👀 our contracts are available on all major networks #eth #bsc and… httpstco6m2wrn1pig'],0.4875,Positive,0.181,0.0,0.819,0.6369,Positive
+2545,534,Nicolas Maiques,True,2022-03-09 22:35:53+00:00,95,316,98658,"[{'text': 'GEM', 'indices': [20, 24]}, {'text': 'BSC', 'indices': [101, 105]}, {'text': 'ETH', 'indices': [106, 110]}]","🚨 SHILL ME the NEXT #GEM to do a 100x !! 👀💎
+
+PUT Notifications ON 🔔 if you don't want to miss out!✅
+
+#BSC #ETH… https://t.co/taKgkQI5TI",['🚨 shill me the next #gem to do a 100x  👀💎\r\n\r\nput notifications on 🔔 if you dont want to miss out✅\r\n\r\n#bsc #eth… httpstcotakgkqi5ti'],0.0,Neutral,0.067,0.056,0.877,0.0572,Positive
+2546,535,DeFi Yield Protocol,True,2022-03-09 11:08:11+00:00,23,44,106506,"[{'text': 'Passiveincome', 'indices': [3, 17]}, {'text': 'DYP', 'indices': [35, 39]}, {'text': 'ETH', 'indices': [98, 102]}, {'text': 'BSC', 'indices': [104, 108]}]","1/ #Passiveincome at its best with #DYP! 👌🏽
+
+👀 Our contracts are available on all major networks: #ETH, #BSC and… https://t.co/6m2wRn1pIg",['1 #passiveincome at its best with #dyp 👌🏽\r\n\r\n👀 our contracts are available on all major networks #eth #bsc and… httpstco6m2wrn1pig'],0.4875,Positive,0.181,0.0,0.819,0.6369,Positive
+2604,593,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2612,601,Bitcoin News,True,2022-03-09 20:02:47+00:00,60,162,2437100,"[{'text': 'ethereum', 'indices': [82, 91]}]","On March 8, the team behind the Bored Ape Yacht Club (BAYC) donated $1 million in #ethereum to the Ukraine governme… https://t.co/4JU7BGYOvv",['on march 8 the team behind the bored ape yacht club bayc donated 1 million in #ethereum to the ukraine governme… httpstco4ju7bgyovv'],-0.45,Negative,0.0,0.1,0.9,-0.2732,Negative
+2615,604,Lark Davis,True,2022-03-09 08:15:00+00:00,149,631,916794,"[{'text': 'ethereum', 'indices': [23, 32]}]","Goldman Sachs to offer #ethereum fund to clients. 
+
+https://t.co/z7JvC7ml3F",['goldman sachs to offer #ethereum fund to clients \r\n\r\nhttpstcoz7jvc7ml3f'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2619,608,Nicolas Maiques,True,2022-03-09 22:35:53+00:00,95,316,98658,"[{'text': 'GEM', 'indices': [20, 24]}, {'text': 'BSC', 'indices': [101, 105]}, {'text': 'ETH', 'indices': [106, 110]}]","🚨 SHILL ME the NEXT #GEM to do a 100x !! 👀💎
+
+PUT Notifications ON 🔔 if you don't want to miss out!✅
+
+#BSC #ETH… https://t.co/taKgkQI5TI",['🚨 shill me the next #gem to do a 100x  👀💎\r\n\r\nput notifications on 🔔 if you dont want to miss out✅\r\n\r\n#bsc #eth… httpstcotakgkqi5ti'],0.0,Neutral,0.067,0.056,0.877,0.0572,Positive
+2622,611,Klever,True,2022-03-09 18:14:06+00:00,90,263,269605,"[{'text': 'Reef', 'indices': [80, 85]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'ETH', 'indices': [100, 104]}]","There are no barriers in this @ReefDeFi &amp; @klever_io  partnership 🤝
+
+👉 Swap #Reef #BSC and Reef #ETH to Reef Mainne… https://t.co/YovSBnRzp9",['there are no barriers in this @reefdefi amp @kleverio  partnership 🤝\r\n\r\n👉 swap #reef #bsc and reef #eth to reef mainne… httpstcoyovsbnrzp9'],0.0,Neutral,0.0,0.099,0.901,-0.296,Negative
+2623,612,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2624,613,The Moon,True,2022-03-09 04:35:51+00:00,93,552,1013020,"[{'text': 'BAYC', 'indices': [30, 35]}, {'text': 'ETH', 'indices': [56, 60]}, {'text': 'Ukraine', 'indices': [64, 72]}]",JUST IN: Bored Ape Yacht Club #BAYC has donated 388.999 #ETH to #Ukraine! 🇺🇦,['just in bored ape yacht club #bayc has donated 388999 #eth to #ukraine 🇺🇦'],-0.5,Negative,0.0,0.139,0.861,-0.2732,Negative
+2626,615,DeFi Yield Protocol,True,2022-03-09 11:08:11+00:00,23,44,106506,"[{'text': 'Passiveincome', 'indices': [3, 17]}, {'text': 'DYP', 'indices': [35, 39]}, {'text': 'ETH', 'indices': [98, 102]}, {'text': 'BSC', 'indices': [104, 108]}]","1/ #Passiveincome at its best with #DYP! 👌🏽
+
+👀 Our contracts are available on all major networks: #ETH, #BSC and… https://t.co/6m2wRn1pIg",['1 #passiveincome at its best with #dyp 👌🏽\r\n\r\n👀 our contracts are available on all major networks #eth #bsc and… httpstco6m2wrn1pig'],0.4875,Positive,0.181,0.0,0.819,0.6369,Positive
+2629,618,Nicolas Maiques,True,2022-03-09 22:35:53+00:00,95,316,98658,"[{'text': 'GEM', 'indices': [20, 24]}, {'text': 'BSC', 'indices': [101, 105]}, {'text': 'ETH', 'indices': [106, 110]}]","🚨 SHILL ME the NEXT #GEM to do a 100x !! 👀💎
+
+PUT Notifications ON 🔔 if you don't want to miss out!✅
+
+#BSC #ETH… https://t.co/taKgkQI5TI",['🚨 shill me the next #gem to do a 100x  👀💎\r\n\r\nput notifications on 🔔 if you dont want to miss out✅\r\n\r\n#bsc #eth… httpstcotakgkqi5ti'],0.0,Neutral,0.067,0.056,0.877,0.0572,Positive
+2630,619,DeFi Yield Protocol,True,2022-03-09 11:08:11+00:00,23,44,106506,"[{'text': 'Passiveincome', 'indices': [3, 17]}, {'text': 'DYP', 'indices': [35, 39]}, {'text': 'ETH', 'indices': [98, 102]}, {'text': 'BSC', 'indices': [104, 108]}]","1/ #Passiveincome at its best with #DYP! 👌🏽
+
+👀 Our contracts are available on all major networks: #ETH, #BSC and… https://t.co/6m2wRn1pIg",['1 #passiveincome at its best with #dyp 👌🏽\r\n\r\n👀 our contracts are available on all major networks #eth #bsc and… httpstco6m2wrn1pig'],0.4875,Positive,0.181,0.0,0.819,0.6369,Positive
+2692,681,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2700,689,Bitcoin News,True,2022-03-09 20:02:47+00:00,60,162,2437100,"[{'text': 'ethereum', 'indices': [82, 91]}]","On March 8, the team behind the Bored Ape Yacht Club (BAYC) donated $1 million in #ethereum to the Ukraine governme… https://t.co/4JU7BGYOvv",['on march 8 the team behind the bored ape yacht club bayc donated 1 million in #ethereum to the ukraine governme… httpstco4ju7bgyovv'],-0.45,Negative,0.0,0.1,0.9,-0.2732,Negative
+2703,692,Lark Davis,True,2022-03-09 08:15:00+00:00,149,631,916794,"[{'text': 'ethereum', 'indices': [23, 32]}]","Goldman Sachs to offer #ethereum fund to clients. 
+
+https://t.co/z7JvC7ml3F",['goldman sachs to offer #ethereum fund to clients \r\n\r\nhttpstcoz7jvc7ml3f'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2707,696,Nicolas Maiques,True,2022-03-09 22:35:53+00:00,95,316,98658,"[{'text': 'GEM', 'indices': [20, 24]}, {'text': 'BSC', 'indices': [101, 105]}, {'text': 'ETH', 'indices': [106, 110]}]","🚨 SHILL ME the NEXT #GEM to do a 100x !! 👀💎
+
+PUT Notifications ON 🔔 if you don't want to miss out!✅
+
+#BSC #ETH… https://t.co/taKgkQI5TI",['🚨 shill me the next #gem to do a 100x  👀💎\r\n\r\nput notifications on 🔔 if you dont want to miss out✅\r\n\r\n#bsc #eth… httpstcotakgkqi5ti'],0.0,Neutral,0.067,0.056,0.877,0.0572,Positive
+2710,699,Klever,True,2022-03-09 18:14:06+00:00,90,263,269605,"[{'text': 'Reef', 'indices': [80, 85]}, {'text': 'BSC', 'indices': [86, 90]}, {'text': 'ETH', 'indices': [100, 104]}]","There are no barriers in this @ReefDeFi &amp; @klever_io  partnership 🤝
+
+👉 Swap #Reef #BSC and Reef #ETH to Reef Mainne… https://t.co/YovSBnRzp9",['there are no barriers in this @reefdefi amp @kleverio  partnership 🤝\r\n\r\n👉 swap #reef #bsc and reef #eth to reef mainne… httpstcoyovsbnrzp9'],0.0,Neutral,0.0,0.099,0.901,-0.296,Negative
+2711,700,YourPop,True,2022-03-09 04:05:27+00:00,204,1355,153998,"[{'text': 'CRYPTO', 'indices': [15, 22]}, {'text': 'BTC', 'indices': [27, 31]}, {'text': 'ETH', 'indices': [32, 36]}, {'text': 'SHIB', 'indices': [37, 42]}]","Oh, well HELLO #CRYPTO 😵🚀🔥 #BTC #ETH #SHIB 🚀🚀🚀🚀🚀🚀",['oh well hello #crypto 😵🚀🔥 #btc #eth #shib 🚀🚀🚀🚀🚀🚀'],0.0,Neutral,0.208,0.0,0.792,0.2732,Positive
+2712,701,The Moon,True,2022-03-09 04:35:51+00:00,93,552,1013020,"[{'text': 'BAYC', 'indices': [30, 35]}, {'text': 'ETH', 'indices': [56, 60]}, {'text': 'Ukraine', 'indices': [64, 72]}]",JUST IN: Bored Ape Yacht Club #BAYC has donated 388.999 #ETH to #Ukraine! 🇺🇦,['just in bored ape yacht club #bayc has donated 388999 #eth to #ukraine 🇺🇦'],-0.5,Negative,0.0,0.139,0.861,-0.2732,Negative
+2714,703,DeFi Yield Protocol,True,2022-03-09 11:08:11+00:00,23,44,106506,"[{'text': 'Passiveincome', 'indices': [3, 17]}, {'text': 'DYP', 'indices': [35, 39]}, {'text': 'ETH', 'indices': [98, 102]}, {'text': 'BSC', 'indices': [104, 108]}]","1/ #Passiveincome at its best with #DYP! 👌🏽
+
+👀 Our contracts are available on all major networks: #ETH, #BSC and… https://t.co/6m2wRn1pIg",['1 #passiveincome at its best with #dyp 👌🏽\r\n\r\n👀 our contracts are available on all major networks #eth #bsc and… httpstco6m2wrn1pig'],0.4875,Positive,0.181,0.0,0.819,0.6369,Positive
+2717,706,Nicolas Maiques,True,2022-03-09 22:35:53+00:00,95,316,98658,"[{'text': 'GEM', 'indices': [20, 24]}, {'text': 'BSC', 'indices': [101, 105]}, {'text': 'ETH', 'indices': [106, 110]}]","🚨 SHILL ME the NEXT #GEM to do a 100x !! 👀💎
+
+PUT Notifications ON 🔔 if you don't want to miss out!✅
+
+#BSC #ETH… https://t.co/taKgkQI5TI",['🚨 shill me the next #gem to do a 100x  👀💎\r\n\r\nput notifications on 🔔 if you dont want to miss out✅\r\n\r\n#bsc #eth… httpstcotakgkqi5ti'],0.0,Neutral,0.067,0.056,0.877,0.0572,Positive
+2718,707,DeFi Yield Protocol,True,2022-03-09 11:08:11+00:00,23,44,106506,"[{'text': 'Passiveincome', 'indices': [3, 17]}, {'text': 'DYP', 'indices': [35, 39]}, {'text': 'ETH', 'indices': [98, 102]}, {'text': 'BSC', 'indices': [104, 108]}]","1/ #Passiveincome at its best with #DYP! 👌🏽
+
+👀 Our contracts are available on all major networks: #ETH, #BSC and… https://t.co/6m2wRn1pIg",['1 #passiveincome at its best with #dyp 👌🏽\r\n\r\n👀 our contracts are available on all major networks #eth #bsc and… httpstco6m2wrn1pig'],0.4875,Positive,0.181,0.0,0.819,0.6369,Positive
+2993,267,Lark Davis,True,2022-03-10 21:43:42+00:00,38,546,916793,"[{'text': 'ethereum', 'indices': [30, 39]}, {'text': 'silverlining', 'indices': [58, 71]}]","Hey, at least the gas fees on #ethereum are cheap again! 
+#silverlining",['hey at least the gas fees on #ethereum are cheap again \r\n#silverlining'],0.05000000000000002,Positive,0.0,0.0,1.0,0.0,Neutral
+2995,269,Lark Davis,True,2022-03-10 21:27:00+00:00,27,137,916793,"[{'text': 'bitcoin', 'indices': [4, 12]}, {'text': 'ethereum', 'indices': [14, 23]}, {'text': 'crypto', 'indices': [65, 72]}]","Buy #bitcoin, #ethereum, $matic, $sol and great range of the top #crypto on FTX US!
+
+Use the link below to start yo… https://t.co/eKlEKtUVkK",['buy #bitcoin #ethereum matic sol and great range of the top #crypto on ftx us\r\n\r\nuse the link below to start yo… httpstcoeklektuvkk'],0.65,Positive,0.228,0.0,0.772,0.7096,Positive
+3059,333,Lark Davis,True,2022-03-10 21:43:42+00:00,38,546,916793,"[{'text': 'ethereum', 'indices': [30, 39]}, {'text': 'silverlining', 'indices': [58, 71]}]","Hey, at least the gas fees on #ethereum are cheap again! 
+#silverlining",['hey at least the gas fees on #ethereum are cheap again \r\n#silverlining'],0.05000000000000002,Positive,0.0,0.0,1.0,0.0,Neutral
+3061,335,Lark Davis,True,2022-03-10 21:27:00+00:00,27,137,916793,"[{'text': 'bitcoin', 'indices': [4, 12]}, {'text': 'ethereum', 'indices': [14, 23]}, {'text': 'crypto', 'indices': [65, 72]}]","Buy #bitcoin, #ethereum, $matic, $sol and great range of the top #crypto on FTX US!
+
+Use the link below to start yo… https://t.co/eKlEKtUVkK",['buy #bitcoin #ethereum matic sol and great range of the top #crypto on ftx us\r\n\r\nuse the link below to start yo… httpstcoeklektuvkk'],0.65,Positive,0.228,0.0,0.772,0.7096,Positive
+3067,341,KitoPoblah.eth,True,2022-03-10 19:49:18+00:00,25,34,84154,"[{'text': 'Eth', 'indices': [66, 70]}, {'text': 'ETHGiveaway', 'indices': [71, 83]}, {'text': 'ERC20', 'indices': [84, 90]}, {'text': 'ETHGiveaways', 'indices': [91, 104]}]","Good contest hold from GORZAN team🔥
+
+Buy and hold GORZAN TOKEN 💎
+
+#Eth #ETHGiveaway #ERC20 #ETHGiveaways… https://t.co/lQ9bAONvBd",['good contest hold from gorzan team🔥\r\n\r\nbuy and hold gorzan token 💎\r\n\r\n#eth #ethgiveaway #erc20 #ethgiveaways… httpstcolq9baonvbd'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+3068,342,JR,True,2022-03-10 11:35:52+00:00,32,75,63038,"[{'text': 'NFT', 'indices': [74, 78]}, {'text': 'TastyBones', 'indices': [79, 90]}, {'text': 'ETH', 'indices': [91, 95]}]","If you're in @TastyBonesNFT
+drop a reply so I can follow the community!! 
+#NFT #TastyBones #ETH https://t.co/duWErqfVok",['if youre in @tastybonesnft\r\ndrop a reply so i can follow the community \r\n#nft #tastybones #eth httpstcoduwerqfvok'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3130,404,Lark Davis,True,2022-03-10 21:43:42+00:00,38,546,916793,"[{'text': 'ethereum', 'indices': [30, 39]}, {'text': 'silverlining', 'indices': [58, 71]}]","Hey, at least the gas fees on #ethereum are cheap again! 
+#silverlining",['hey at least the gas fees on #ethereum are cheap again \r\n#silverlining'],0.05000000000000002,Positive,0.0,0.0,1.0,0.0,Neutral
+3132,406,Lark Davis,True,2022-03-10 21:27:00+00:00,27,137,916793,"[{'text': 'bitcoin', 'indices': [4, 12]}, {'text': 'ethereum', 'indices': [14, 23]}, {'text': 'crypto', 'indices': [65, 72]}]","Buy #bitcoin, #ethereum, $matic, $sol and great range of the top #crypto on FTX US!
+
+Use the link below to start yo… https://t.co/eKlEKtUVkK",['buy #bitcoin #ethereum matic sol and great range of the top #crypto on ftx us\r\n\r\nuse the link below to start yo… httpstcoeklektuvkk'],0.65,Positive,0.228,0.0,0.772,0.7096,Positive
+3138,412,KitoPoblah.eth,True,2022-03-10 19:49:18+00:00,25,34,84154,"[{'text': 'Eth', 'indices': [66, 70]}, {'text': 'ETHGiveaway', 'indices': [71, 83]}, {'text': 'ERC20', 'indices': [84, 90]}, {'text': 'ETHGiveaways', 'indices': [91, 104]}]","Good contest hold from GORZAN team🔥
+
+Buy and hold GORZAN TOKEN 💎
+
+#Eth #ETHGiveaway #ERC20 #ETHGiveaways… https://t.co/lQ9bAONvBd",['good contest hold from gorzan team🔥\r\n\r\nbuy and hold gorzan token 💎\r\n\r\n#eth #ethgiveaway #erc20 #ethgiveaways… httpstcolq9baonvbd'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+3139,413,JR,True,2022-03-10 11:35:52+00:00,32,75,63038,"[{'text': 'NFT', 'indices': [74, 78]}, {'text': 'TastyBones', 'indices': [79, 90]}, {'text': 'ETH', 'indices': [91, 95]}]","If you're in @TastyBonesNFT
+drop a reply so I can follow the community!! 
+#NFT #TastyBones #ETH https://t.co/duWErqfVok",['if youre in @tastybonesnft\r\ndrop a reply so i can follow the community \r\n#nft #tastybones #eth httpstcoduwerqfvok'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3204,478,Lark Davis,True,2022-03-10 21:43:42+00:00,38,546,916793,"[{'text': 'ethereum', 'indices': [30, 39]}, {'text': 'silverlining', 'indices': [58, 71]}]","Hey, at least the gas fees on #ethereum are cheap again! 
+#silverlining",['hey at least the gas fees on #ethereum are cheap again \r\n#silverlining'],0.05000000000000002,Positive,0.0,0.0,1.0,0.0,Neutral
+3206,480,Lark Davis,True,2022-03-10 21:27:00+00:00,27,137,916793,"[{'text': 'bitcoin', 'indices': [4, 12]}, {'text': 'ethereum', 'indices': [14, 23]}, {'text': 'crypto', 'indices': [65, 72]}]","Buy #bitcoin, #ethereum, $matic, $sol and great range of the top #crypto on FTX US!
+
+Use the link below to start yo… https://t.co/eKlEKtUVkK",['buy #bitcoin #ethereum matic sol and great range of the top #crypto on ftx us\r\n\r\nuse the link below to start yo… httpstcoeklektuvkk'],0.65,Positive,0.228,0.0,0.772,0.7096,Positive
+3212,486,KitoPoblah.eth,True,2022-03-10 19:49:18+00:00,25,34,84154,"[{'text': 'Eth', 'indices': [66, 70]}, {'text': 'ETHGiveaway', 'indices': [71, 83]}, {'text': 'ERC20', 'indices': [84, 90]}, {'text': 'ETHGiveaways', 'indices': [91, 104]}]","Good contest hold from GORZAN team🔥
+
+Buy and hold GORZAN TOKEN 💎
+
+#Eth #ETHGiveaway #ERC20 #ETHGiveaways… https://t.co/lQ9bAONvBd",['good contest hold from gorzan team🔥\r\n\r\nbuy and hold gorzan token 💎\r\n\r\n#eth #ethgiveaway #erc20 #ethgiveaways… httpstcolq9baonvbd'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+3213,487,JR,True,2022-03-10 11:35:52+00:00,32,75,63038,"[{'text': 'NFT', 'indices': [74, 78]}, {'text': 'TastyBones', 'indices': [79, 90]}, {'text': 'ETH', 'indices': [91, 95]}]","If you're in @TastyBonesNFT
+drop a reply so I can follow the community!! 
+#NFT #TastyBones #ETH https://t.co/duWErqfVok",['if youre in @tastybonesnft\r\ndrop a reply so i can follow the community \r\n#nft #tastybones #eth httpstcoduwerqfvok'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3279,553,Lark Davis,True,2022-03-10 21:43:42+00:00,38,546,916793,"[{'text': 'ethereum', 'indices': [30, 39]}, {'text': 'silverlining', 'indices': [58, 71]}]","Hey, at least the gas fees on #ethereum are cheap again! 
+#silverlining",['hey at least the gas fees on #ethereum are cheap again \r\n#silverlining'],0.05000000000000002,Positive,0.0,0.0,1.0,0.0,Neutral
+3281,555,Lark Davis,True,2022-03-10 21:27:00+00:00,27,137,916793,"[{'text': 'bitcoin', 'indices': [4, 12]}, {'text': 'ethereum', 'indices': [14, 23]}, {'text': 'crypto', 'indices': [65, 72]}]","Buy #bitcoin, #ethereum, $matic, $sol and great range of the top #crypto on FTX US!
+
+Use the link below to start yo… https://t.co/eKlEKtUVkK",['buy #bitcoin #ethereum matic sol and great range of the top #crypto on ftx us\r\n\r\nuse the link below to start yo… httpstcoeklektuvkk'],0.65,Positive,0.228,0.0,0.772,0.7096,Positive
+3287,561,KitoPoblah.eth,True,2022-03-10 19:49:18+00:00,25,34,84154,"[{'text': 'Eth', 'indices': [66, 70]}, {'text': 'ETHGiveaway', 'indices': [71, 83]}, {'text': 'ERC20', 'indices': [84, 90]}, {'text': 'ETHGiveaways', 'indices': [91, 104]}]","Good contest hold from GORZAN team🔥
+
+Buy and hold GORZAN TOKEN 💎
+
+#Eth #ETHGiveaway #ERC20 #ETHGiveaways… https://t.co/lQ9bAONvBd",['good contest hold from gorzan team🔥\r\n\r\nbuy and hold gorzan token 💎\r\n\r\n#eth #ethgiveaway #erc20 #ethgiveaways… httpstcolq9baonvbd'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+3288,562,JR,True,2022-03-10 11:35:52+00:00,32,75,63038,"[{'text': 'NFT', 'indices': [74, 78]}, {'text': 'TastyBones', 'indices': [79, 90]}, {'text': 'ETH', 'indices': [91, 95]}]","If you're in @TastyBonesNFT
+drop a reply so I can follow the community!! 
+#NFT #TastyBones #ETH https://t.co/duWErqfVok",['if youre in @tastybonesnft\r\ndrop a reply so i can follow the community \r\n#nft #tastybones #eth httpstcoduwerqfvok'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3359,633,Lark Davis,True,2022-03-10 21:43:42+00:00,38,546,916793,"[{'text': 'ethereum', 'indices': [30, 39]}, {'text': 'silverlining', 'indices': [58, 71]}]","Hey, at least the gas fees on #ethereum are cheap again! 
+#silverlining",['hey at least the gas fees on #ethereum are cheap again \r\n#silverlining'],0.05000000000000002,Positive,0.0,0.0,1.0,0.0,Neutral
+3361,635,Lark Davis,True,2022-03-10 21:27:00+00:00,27,137,916793,"[{'text': 'bitcoin', 'indices': [4, 12]}, {'text': 'ethereum', 'indices': [14, 23]}, {'text': 'crypto', 'indices': [65, 72]}]","Buy #bitcoin, #ethereum, $matic, $sol and great range of the top #crypto on FTX US!
+
+Use the link below to start yo… https://t.co/eKlEKtUVkK",['buy #bitcoin #ethereum matic sol and great range of the top #crypto on ftx us\r\n\r\nuse the link below to start yo… httpstcoeklektuvkk'],0.65,Positive,0.228,0.0,0.772,0.7096,Positive
+3367,641,KitoPoblah.eth,True,2022-03-10 19:49:18+00:00,25,34,84154,"[{'text': 'Eth', 'indices': [66, 70]}, {'text': 'ETHGiveaway', 'indices': [71, 83]}, {'text': 'ERC20', 'indices': [84, 90]}, {'text': 'ETHGiveaways', 'indices': [91, 104]}]","Good contest hold from GORZAN team🔥
+
+Buy and hold GORZAN TOKEN 💎
+
+#Eth #ETHGiveaway #ERC20 #ETHGiveaways… https://t.co/lQ9bAONvBd",['good contest hold from gorzan team🔥\r\n\r\nbuy and hold gorzan token 💎\r\n\r\n#eth #ethgiveaway #erc20 #ethgiveaways… httpstcolq9baonvbd'],0.7,Positive,0.0,0.0,1.0,0.0,Neutral
+3368,642,JR,True,2022-03-10 11:35:52+00:00,32,75,63038,"[{'text': 'NFT', 'indices': [74, 78]}, {'text': 'TastyBones', 'indices': [79, 90]}, {'text': 'ETH', 'indices': [91, 95]}]","If you're in @TastyBonesNFT
+drop a reply so I can follow the community!! 
+#NFT #TastyBones #ETH https://t.co/duWErqfVok",['if youre in @tastybonesnft\r\ndrop a reply so i can follow the community \r\n#nft #tastybones #eth httpstcoduwerqfvok'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3411,32,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3435,56,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3461,82,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3490,111,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3530,151,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3582,203,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3613,234,Watcher.Guru,True,2022-03-11 00:26:09+00:00,197,1395,722197,"[{'text': 'Ethereum', 'indices': [23, 32]}]",JUST IN: The amount of #Ethereum staked in ETH 2.0 has surpassed 10 million ETH.,['just in the amount of #ethereum staked in eth 20 has surpassed 10 million eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3615,236,Lark Davis,True,2022-03-11 07:34:00+00:00,58,303,921839,"[{'text': 'ethereum', 'indices': [30, 39]}]","Money just keeps pouring into #ethereum for staking! 
+
+https://t.co/jTZsqaJIBI",['money just keeps pouring into #ethereum for staking \r\n\r\nhttpstcojtzsqajibi'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3616,237,Bitget,True,2022-03-11 09:21:13+00:00,19,74,177974,"[{'text': 'crypto', 'indices': [20, 27]}, {'text': 'memecoin', 'indices': [33, 42]}, {'text': 'metaverse', 'indices': [49, 59]}, {'text': 'GameFi', 'indices': [63, 70]}, {'text': 'DeFi', 'indices': [73, 78]}, {'text': 'Bitcoin', 'indices': [80, 88]}, {'text': 'Ethereum', 'indices': [96, 105]}]","What brought you to #crypto?
+👉 a #memecoin 
+👉the #metaverse or #GameFi 
+👉#DeFi
+👉#Bitcoin $BTC / #Ethereum $ETH",['what brought you to #crypto\r\n👉 a #memecoin \r\n👉the #metaverse or #gamefi \r\n👉#defi\r\n👉#bitcoin btc  #ethereum eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3640,261,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3671,292,Watcher.Guru,True,2022-03-11 00:26:09+00:00,197,1395,722197,"[{'text': 'Ethereum', 'indices': [23, 32]}]",JUST IN: The amount of #Ethereum staked in ETH 2.0 has surpassed 10 million ETH.,['just in the amount of #ethereum staked in eth 20 has surpassed 10 million eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3673,294,Lark Davis,True,2022-03-11 07:34:00+00:00,58,303,921839,"[{'text': 'ethereum', 'indices': [30, 39]}]","Money just keeps pouring into #ethereum for staking! 
+
+https://t.co/jTZsqaJIBI",['money just keeps pouring into #ethereum for staking \r\n\r\nhttpstcojtzsqajibi'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3674,295,Bitget,True,2022-03-11 09:21:13+00:00,19,74,177974,"[{'text': 'crypto', 'indices': [20, 27]}, {'text': 'memecoin', 'indices': [33, 42]}, {'text': 'metaverse', 'indices': [49, 59]}, {'text': 'GameFi', 'indices': [63, 70]}, {'text': 'DeFi', 'indices': [73, 78]}, {'text': 'Bitcoin', 'indices': [80, 88]}, {'text': 'Ethereum', 'indices': [96, 105]}]","What brought you to #crypto?
+👉 a #memecoin 
+👉the #metaverse or #GameFi 
+👉#DeFi
+👉#Bitcoin $BTC / #Ethereum $ETH",['what brought you to #crypto\r\n👉 a #memecoin \r\n👉the #metaverse or #gamefi \r\n👉#defi\r\n👉#bitcoin btc  #ethereum eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3681,302,Juan,True,2022-03-11 17:02:11+00:00,379,397,162709,"[{'text': 'NFT', 'indices': [10, 14]}, {'text': 'ETH', 'indices': [28, 32]}]",Drop your #NFT ! I invest 2 #ETH ! 🔥,['drop your #nft  i invest 2 #eth  🔥'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3682,303,DeFi Yield Protocol,True,2022-03-11 16:05:00+00:00,29,52,106340,"[{'text': 'AVAX', 'indices': [43, 48]}, {'text': 'BSC', 'indices': [50, 54]}, {'text': 'ETH', 'indices': [58, 62]}, {'text': 'yieldfarming', 'indices': [91, 104]}]","✅ Join the liquidity pool that you prefer: #AVAX, #BSC or #ETH and earn up to 260% APR for #yieldfarming.
+
+💰With a… https://t.co/nkI1WUmBqk",['✅ join the liquidity pool that you prefer #avax #bsc or #eth and earn up to 260 apr for #yieldfarming\r\n\r\n💰with a… httpstconki1wumbqk'],0.0,Neutral,0.095,0.0,0.905,0.296,Positive
+3705,326,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3736,357,Watcher.Guru,True,2022-03-11 00:26:09+00:00,197,1395,722197,"[{'text': 'Ethereum', 'indices': [23, 32]}]",JUST IN: The amount of #Ethereum staked in ETH 2.0 has surpassed 10 million ETH.,['just in the amount of #ethereum staked in eth 20 has surpassed 10 million eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3738,359,Lark Davis,True,2022-03-11 07:34:00+00:00,58,303,921839,"[{'text': 'ethereum', 'indices': [30, 39]}]","Money just keeps pouring into #ethereum for staking! 
+
+https://t.co/jTZsqaJIBI",['money just keeps pouring into #ethereum for staking \r\n\r\nhttpstcojtzsqajibi'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3739,360,Bitget,True,2022-03-11 09:21:13+00:00,19,74,177974,"[{'text': 'crypto', 'indices': [20, 27]}, {'text': 'memecoin', 'indices': [33, 42]}, {'text': 'metaverse', 'indices': [49, 59]}, {'text': 'GameFi', 'indices': [63, 70]}, {'text': 'DeFi', 'indices': [73, 78]}, {'text': 'Bitcoin', 'indices': [80, 88]}, {'text': 'Ethereum', 'indices': [96, 105]}]","What brought you to #crypto?
+👉 a #memecoin 
+👉the #metaverse or #GameFi 
+👉#DeFi
+👉#Bitcoin $BTC / #Ethereum $ETH",['what brought you to #crypto\r\n👉 a #memecoin \r\n👉the #metaverse or #gamefi \r\n👉#defi\r\n👉#bitcoin btc  #ethereum eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3746,367,Juan,True,2022-03-11 17:02:11+00:00,379,397,162709,"[{'text': 'NFT', 'indices': [10, 14]}, {'text': 'ETH', 'indices': [28, 32]}]",Drop your #NFT ! I invest 2 #ETH ! 🔥,['drop your #nft  i invest 2 #eth  🔥'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3747,368,DeFi Yield Protocol,True,2022-03-11 16:05:00+00:00,29,52,106340,"[{'text': 'AVAX', 'indices': [43, 48]}, {'text': 'BSC', 'indices': [50, 54]}, {'text': 'ETH', 'indices': [58, 62]}, {'text': 'yieldfarming', 'indices': [91, 104]}]","✅ Join the liquidity pool that you prefer: #AVAX, #BSC or #ETH and earn up to 260% APR for #yieldfarming.
+
+💰With a… https://t.co/nkI1WUmBqk",['✅ join the liquidity pool that you prefer #avax #bsc or #eth and earn up to 260 apr for #yieldfarming\r\n\r\n💰with a… httpstconki1wumbqk'],0.0,Neutral,0.095,0.0,0.905,0.296,Positive
+3773,394,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3804,425,Watcher.Guru,True,2022-03-11 00:26:09+00:00,197,1395,722197,"[{'text': 'Ethereum', 'indices': [23, 32]}]",JUST IN: The amount of #Ethereum staked in ETH 2.0 has surpassed 10 million ETH.,['just in the amount of #ethereum staked in eth 20 has surpassed 10 million eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3806,427,Lark Davis,True,2022-03-11 07:34:00+00:00,58,303,921839,"[{'text': 'ethereum', 'indices': [30, 39]}]","Money just keeps pouring into #ethereum for staking! 
+
+https://t.co/jTZsqaJIBI",['money just keeps pouring into #ethereum for staking \r\n\r\nhttpstcojtzsqajibi'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3807,428,Bitget,True,2022-03-11 09:21:13+00:00,19,74,177974,"[{'text': 'crypto', 'indices': [20, 27]}, {'text': 'memecoin', 'indices': [33, 42]}, {'text': 'metaverse', 'indices': [49, 59]}, {'text': 'GameFi', 'indices': [63, 70]}, {'text': 'DeFi', 'indices': [73, 78]}, {'text': 'Bitcoin', 'indices': [80, 88]}, {'text': 'Ethereum', 'indices': [96, 105]}]","What brought you to #crypto?
+👉 a #memecoin 
+👉the #metaverse or #GameFi 
+👉#DeFi
+👉#Bitcoin $BTC / #Ethereum $ETH",['what brought you to #crypto\r\n👉 a #memecoin \r\n👉the #metaverse or #gamefi \r\n👉#defi\r\n👉#bitcoin btc  #ethereum eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3814,435,Juan,True,2022-03-11 17:02:11+00:00,379,397,162709,"[{'text': 'NFT', 'indices': [10, 14]}, {'text': 'ETH', 'indices': [28, 32]}]",Drop your #NFT ! I invest 2 #ETH ! 🔥,['drop your #nft  i invest 2 #eth  🔥'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3815,436,DeFi Yield Protocol,True,2022-03-11 16:05:00+00:00,29,52,106340,"[{'text': 'AVAX', 'indices': [43, 48]}, {'text': 'BSC', 'indices': [50, 54]}, {'text': 'ETH', 'indices': [58, 62]}, {'text': 'yieldfarming', 'indices': [91, 104]}]","✅ Join the liquidity pool that you prefer: #AVAX, #BSC or #ETH and earn up to 260% APR for #yieldfarming.
+
+💰With a… https://t.co/nkI1WUmBqk",['✅ join the liquidity pool that you prefer #avax #bsc or #eth and earn up to 260 apr for #yieldfarming\r\n\r\n💰with a… httpstconki1wumbqk'],0.0,Neutral,0.095,0.0,0.905,0.296,Positive
+3820,441,DeFi Yield Protocol,True,2022-03-11 16:05:00+00:00,29,52,106340,"[{'text': 'AVAX', 'indices': [43, 48]}, {'text': 'BSC', 'indices': [50, 54]}, {'text': 'ETH', 'indices': [58, 62]}, {'text': 'yieldfarming', 'indices': [91, 104]}]","✅ Join the liquidity pool that you prefer: #AVAX, #BSC or #ETH and earn up to 260% APR for #yieldfarming.
+
+💰With a… https://t.co/nkI1WUmBqk",['✅ join the liquidity pool that you prefer #avax #bsc or #eth and earn up to 260 apr for #yieldfarming\r\n\r\n💰with a… httpstconki1wumbqk'],0.0,Neutral,0.095,0.0,0.905,0.296,Positive
+3843,464,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3874,495,Watcher.Guru,True,2022-03-11 00:26:09+00:00,197,1395,722197,"[{'text': 'Ethereum', 'indices': [23, 32]}]",JUST IN: The amount of #Ethereum staked in ETH 2.0 has surpassed 10 million ETH.,['just in the amount of #ethereum staked in eth 20 has surpassed 10 million eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3876,497,Lark Davis,True,2022-03-11 07:34:00+00:00,58,303,921839,"[{'text': 'ethereum', 'indices': [30, 39]}]","Money just keeps pouring into #ethereum for staking! 
+
+https://t.co/jTZsqaJIBI",['money just keeps pouring into #ethereum for staking \r\n\r\nhttpstcojtzsqajibi'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3877,498,Bitget,True,2022-03-11 09:21:13+00:00,19,74,177974,"[{'text': 'crypto', 'indices': [20, 27]}, {'text': 'memecoin', 'indices': [33, 42]}, {'text': 'metaverse', 'indices': [49, 59]}, {'text': 'GameFi', 'indices': [63, 70]}, {'text': 'DeFi', 'indices': [73, 78]}, {'text': 'Bitcoin', 'indices': [80, 88]}, {'text': 'Ethereum', 'indices': [96, 105]}]","What brought you to #crypto?
+👉 a #memecoin 
+👉the #metaverse or #GameFi 
+👉#DeFi
+👉#Bitcoin $BTC / #Ethereum $ETH",['what brought you to #crypto\r\n👉 a #memecoin \r\n👉the #metaverse or #gamefi \r\n👉#defi\r\n👉#bitcoin btc  #ethereum eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3884,505,Juan,True,2022-03-11 17:02:11+00:00,379,397,162709,"[{'text': 'NFT', 'indices': [10, 14]}, {'text': 'ETH', 'indices': [28, 32]}]",Drop your #NFT ! I invest 2 #ETH ! 🔥,['drop your #nft  i invest 2 #eth  🔥'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3885,506,DeFi Yield Protocol,True,2022-03-11 16:05:00+00:00,29,52,106340,"[{'text': 'AVAX', 'indices': [43, 48]}, {'text': 'BSC', 'indices': [50, 54]}, {'text': 'ETH', 'indices': [58, 62]}, {'text': 'yieldfarming', 'indices': [91, 104]}]","✅ Join the liquidity pool that you prefer: #AVAX, #BSC or #ETH and earn up to 260% APR for #yieldfarming.
+
+💰With a… https://t.co/nkI1WUmBqk",['✅ join the liquidity pool that you prefer #avax #bsc or #eth and earn up to 260 apr for #yieldfarming\r\n\r\n💰with a… httpstconki1wumbqk'],0.0,Neutral,0.095,0.0,0.905,0.296,Positive
+3890,511,DeFi Yield Protocol,True,2022-03-11 16:05:00+00:00,29,52,106340,"[{'text': 'AVAX', 'indices': [43, 48]}, {'text': 'BSC', 'indices': [50, 54]}, {'text': 'ETH', 'indices': [58, 62]}, {'text': 'yieldfarming', 'indices': [91, 104]}]","✅ Join the liquidity pool that you prefer: #AVAX, #BSC or #ETH and earn up to 260% APR for #yieldfarming.
+
+💰With a… https://t.co/nkI1WUmBqk",['✅ join the liquidity pool that you prefer #avax #bsc or #eth and earn up to 260 apr for #yieldfarming\r\n\r\n💰with a… httpstconki1wumbqk'],0.0,Neutral,0.095,0.0,0.905,0.296,Positive
+3921,542,The Moon,True,2022-03-11 00:50:02+00:00,203,1286,1020386,"[{'text': 'crypto', 'indices': [6, 13]}]","Which #crypto would you invest 90% of your wealth in?
+
+$SOL       $ETH       $BTC
+👇            👇              👇",['which #crypto would you invest 90 of your wealth in\r\n\r\nsol       eth       btc\r\n👇            👇              👇'],0.0,Neutral,0.211,0.0,0.789,0.4939,Positive
+3952,573,Watcher.Guru,True,2022-03-11 00:26:09+00:00,197,1395,722197,"[{'text': 'Ethereum', 'indices': [23, 32]}]",JUST IN: The amount of #Ethereum staked in ETH 2.0 has surpassed 10 million ETH.,['just in the amount of #ethereum staked in eth 20 has surpassed 10 million eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3954,575,Lark Davis,True,2022-03-11 07:34:00+00:00,58,303,921839,"[{'text': 'ethereum', 'indices': [30, 39]}]","Money just keeps pouring into #ethereum for staking! 
+
+https://t.co/jTZsqaJIBI",['money just keeps pouring into #ethereum for staking \r\n\r\nhttpstcojtzsqajibi'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3955,576,Bitget,True,2022-03-11 09:21:13+00:00,19,74,177974,"[{'text': 'crypto', 'indices': [20, 27]}, {'text': 'memecoin', 'indices': [33, 42]}, {'text': 'metaverse', 'indices': [49, 59]}, {'text': 'GameFi', 'indices': [63, 70]}, {'text': 'DeFi', 'indices': [73, 78]}, {'text': 'Bitcoin', 'indices': [80, 88]}, {'text': 'Ethereum', 'indices': [96, 105]}]","What brought you to #crypto?
+👉 a #memecoin 
+👉the #metaverse or #GameFi 
+👉#DeFi
+👉#Bitcoin $BTC / #Ethereum $ETH",['what brought you to #crypto\r\n👉 a #memecoin \r\n👉the #metaverse or #gamefi \r\n👉#defi\r\n👉#bitcoin btc  #ethereum eth'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3962,583,Juan,True,2022-03-11 17:02:11+00:00,379,397,162709,"[{'text': 'NFT', 'indices': [10, 14]}, {'text': 'ETH', 'indices': [28, 32]}]",Drop your #NFT ! I invest 2 #ETH ! 🔥,['drop your #nft  i invest 2 #eth  🔥'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3963,584,DeFi Yield Protocol,True,2022-03-11 16:05:00+00:00,29,52,106340,"[{'text': 'AVAX', 'indices': [43, 48]}, {'text': 'BSC', 'indices': [50, 54]}, {'text': 'ETH', 'indices': [58, 62]}, {'text': 'yieldfarming', 'indices': [91, 104]}]","✅ Join the liquidity pool that you prefer: #AVAX, #BSC or #ETH and earn up to 260% APR for #yieldfarming.
+
+💰With a… https://t.co/nkI1WUmBqk",['✅ join the liquidity pool that you prefer #avax #bsc or #eth and earn up to 260 apr for #yieldfarming\r\n\r\n💰with a… httpstconki1wumbqk'],0.0,Neutral,0.095,0.0,0.905,0.296,Positive
+3968,589,DeFi Yield Protocol,True,2022-03-11 16:05:00+00:00,29,52,106340,"[{'text': 'AVAX', 'indices': [43, 48]}, {'text': 'BSC', 'indices': [50, 54]}, {'text': 'ETH', 'indices': [58, 62]}, {'text': 'yieldfarming', 'indices': [91, 104]}]","✅ Join the liquidity pool that you prefer: #AVAX, #BSC or #ETH and earn up to 260% APR for #yieldfarming.
+
+💰With a… https://t.co/nkI1WUmBqk",['✅ join the liquidity pool that you prefer #avax #bsc or #eth and earn up to 260 apr for #yieldfarming\r\n\r\n💰with a… httpstconki1wumbqk'],0.0,Neutral,0.095,0.0,0.905,0.296,Positive

@@ -1,0 +1,811 @@
+,tweet_id,name,verified,created_at,retweet_count,favorite_count,followers_count,hashtags,text,clean_text,textblob_sentiment,textblob_summary,vader_sentiment_pos,vader_sentiment_neg,vader_sentiment_neu,vader_sentiment_compound,vader_summary
+15,15,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+20,20,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+34,34,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+39,39,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+57,57,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+62,62,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+71,71,OKX_Brasil (antiga OKEx),True,2022-03-05 10:00:01+00:00,235,708,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/QAs9GFCP0k",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoqas9gfcp0k'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+82,82,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+87,87,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+96,96,OKX_Brasil (antiga OKEx),True,2022-03-05 10:00:01+00:00,235,708,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/QAs9GFCP0k",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoqas9gfcp0k'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+118,118,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+123,123,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+132,132,OKX_Brasil (antiga OKEx),True,2022-03-05 10:00:01+00:00,235,708,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/QAs9GFCP0k",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoqas9gfcp0k'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+159,159,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+164,164,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+173,173,OKX_Brasil (antiga OKEx),True,2022-03-05 10:00:01+00:00,235,708,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/QAs9GFCP0k",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoqas9gfcp0k'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+208,208,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+213,213,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+222,222,OKX_Brasil (antiga OKEx),True,2022-03-05 10:00:01+00:00,235,708,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/QAs9GFCP0k",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoqas9gfcp0k'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+263,263,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+268,268,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+277,277,OKX_Brasil (antiga OKEx),True,2022-03-05 10:00:01+00:00,235,708,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/QAs9GFCP0k",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoqas9gfcp0k'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+318,318,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+323,323,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+332,332,OKX_Brasil (antiga OKEx),True,2022-03-05 10:00:01+00:00,235,708,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/QAs9GFCP0k",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoqas9gfcp0k'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+374,374,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+379,379,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+388,388,OKX_Brasil (antiga OKEx),True,2022-03-05 10:00:01+00:00,235,708,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/QAs9GFCP0k",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoqas9gfcp0k'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+433,433,The Moon,True,2022-03-05 16:55:01+00:00,266,1776,1013020,"[{'text': 'crypto', 'indices': [12, 19]}]","Choose your #crypto team:
+
+Team 🅰️           Team 🅱️
+$BTC                    $ETH
+$MANA                $SAND
+$DOGE… https://t.co/fA0JvaEavN",['choose your #crypto team\r\n\r\nteam 🅰️           team 🅱️\r\nbtc                    eth\r\nmana                sand\r\ndoge… httpstcofa0jvaeavn'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+438,438,David Gokhshtein,True,2022-03-05 13:43:06+00:00,148,1536,610961,"[{'text': 'crypto', 'indices': [26, 33]}]",How many people came into #crypto because of $DOGE?,['how many people came into #crypto because of doge'],0.5,Positive,0.0,0.0,1.0,0.0,Neutral
+447,447,OKX_Brasil (antiga OKEx),True,2022-03-05 10:00:01+00:00,235,708,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/QAs9GFCP0k",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoqas9gfcp0k'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+520,37,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+539,56,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+540,57,OKX_Brasil (antiga OKEx),True,2022-03-06 12:00:01+00:00,257,804,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/Ikq9SXYtyW",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoikq9sxytyw'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+559,76,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+560,77,OKX_Brasil (antiga OKEx),True,2022-03-06 12:00:01+00:00,257,804,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/Ikq9SXYtyW",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoikq9sxytyw'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+593,110,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+594,111,OKX_Brasil (antiga OKEx),True,2022-03-06 12:00:01+00:00,257,804,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/Ikq9SXYtyW",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoikq9sxytyw'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+631,148,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+632,149,OKX_Brasil (antiga OKEx),True,2022-03-06 12:00:01+00:00,257,804,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/Ikq9SXYtyW",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoikq9sxytyw'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+673,190,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+674,191,OKX_Brasil (antiga OKEx),True,2022-03-06 12:00:01+00:00,257,804,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/Ikq9SXYtyW",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoikq9sxytyw'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+720,237,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+721,238,OKX_Brasil (antiga OKEx),True,2022-03-06 12:00:01+00:00,257,804,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/Ikq9SXYtyW",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoikq9sxytyw'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+768,285,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+769,286,OKX_Brasil (antiga OKEx),True,2022-03-06 12:00:01+00:00,257,804,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/Ikq9SXYtyW",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoikq9sxytyw'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+816,333,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+817,334,OKX_Brasil (antiga OKEx),True,2022-03-06 12:00:01+00:00,257,804,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/Ikq9SXYtyW",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoikq9sxytyw'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+865,382,SlumDOGE Millionaire,True,2022-03-06 00:25:30+00:00,84,1534,215252,"[{'text': 'dogecoin', 'indices': [55, 64]}]",Would y’all be mad if I take a little profit next time #dogecoin LOL,['would y’all be mad if i take a little profit next time #dogecoin lol'],-0.003124999999999989,Negative,0.165,0.202,0.633,-0.1513,Negative
+866,383,OKX_Brasil (antiga OKEx),True,2022-03-06 12:00:01+00:00,257,804,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/Ikq9SXYtyW",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcoikq9sxytyw'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+925,29,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+950,54,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+956,60,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+977,81,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+983,87,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+985,89,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+986,90,OKX_Brasil (antiga OKEx),True,2022-03-07 11:00:01+00:00,310,1001,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/0hM5NasL47",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco0hm5nasl47'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1006,110,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1012,116,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1014,118,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1015,119,OKX_Brasil (antiga OKEx),True,2022-03-07 11:00:01+00:00,310,1001,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/0hM5NasL47",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco0hm5nasl47'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1046,150,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1052,156,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1054,158,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1055,159,OKX_Brasil (antiga OKEx),True,2022-03-07 11:00:01+00:00,310,1001,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/0hM5NasL47",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco0hm5nasl47'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1095,199,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1101,205,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1103,207,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1104,208,OKX_Brasil (antiga OKEx),True,2022-03-07 11:00:01+00:00,310,1001,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/0hM5NasL47",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco0hm5nasl47'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1148,252,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1154,258,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1156,260,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1157,261,OKX_Brasil (antiga OKEx),True,2022-03-07 11:00:01+00:00,310,1001,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/0hM5NasL47",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco0hm5nasl47'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1210,314,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1216,320,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1218,322,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1219,323,OKX_Brasil (antiga OKEx),True,2022-03-07 11:00:01+00:00,310,1001,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/0hM5NasL47",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco0hm5nasl47'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1273,377,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1279,383,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1281,385,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1282,386,OKX_Brasil (antiga OKEx),True,2022-03-07 11:00:01+00:00,310,1001,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/0hM5NasL47",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco0hm5nasl47'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1338,442,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1344,448,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1346,450,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1347,451,OKX_Brasil (antiga OKEx),True,2022-03-07 11:00:01+00:00,310,1001,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/0hM5NasL47",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco0hm5nasl47'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1407,511,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1413,517,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1415,519,BitPay,True,2022-03-07 18:00:02+00:00,242,739,372255,"[{'text': 'dogecoin', 'indices': [18, 27]}, {'text': 'DOGE', 'indices': [48, 53]}, {'text': 'crypto', 'indices': [79, 86]}, {'text': 'bitpay', 'indices': [87, 94]}]",Where can I spend #dogecoin? Learn how to spend #DOGE: https://t.co/eFEt5E6Mtb #crypto #bitpay https://t.co/3K3OjcMiOB,['where can i spend #dogecoin learn how to spend #doge httpstcoefet5e6mtb #crypto #bitpay httpstco3k3ojcmiob'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1416,520,OKX_Brasil (antiga OKEx),True,2022-03-07 11:00:01+00:00,310,1001,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/0hM5NasL47",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco0hm5nasl47'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+1519,60,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1547,88,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1549,90,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1577,118,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1579,120,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1618,159,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1620,161,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1665,206,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1667,208,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1718,259,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1720,261,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1779,320,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1781,322,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1842,383,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1844,385,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1905,446,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1907,448,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1971,512,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+1973,514,SlumDOGE Millionaire,True,2022-03-08 01:27:57+00:00,229,2200,215252,"[{'text': 'dogecoin', 'indices': [32, 41]}]",A lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to $1 dollar and I’m proud o… https://t.co/DxeCfcnrt0,['a lot of people didn’t sell any #dogecoin at 75 cents because we were making that push to 1 dollar and i’m proud o… httpstcodxecfcnrt0'],0.8,Positive,0.119,0.0,0.881,0.4767,Positive
+2076,65,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2077,66,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2079,68,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2080,69,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2107,96,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2108,97,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2110,99,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2111,100,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2112,101,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2113,102,OKX_Brasil (antiga OKEx),True,2022-03-09 10:00:01+00:00,246,724,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/vSoGreopjJ",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcovsogreopjj'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2114,103,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2115,104,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2142,131,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2143,132,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2145,134,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2146,135,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2147,136,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2148,137,OKX_Brasil (antiga OKEx),True,2022-03-09 10:00:01+00:00,246,724,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/vSoGreopjJ",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcovsogreopjj'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2149,138,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2150,139,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2191,180,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2192,181,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2194,183,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2195,184,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2196,185,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2197,186,OKX_Brasil (antiga OKEx),True,2022-03-09 10:00:01+00:00,246,724,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/vSoGreopjJ",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcovsogreopjj'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2198,187,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2199,188,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2254,243,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2255,244,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2257,246,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2258,247,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2259,248,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2260,249,OKX_Brasil (antiga OKEx),True,2022-03-09 10:00:01+00:00,246,724,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/vSoGreopjJ",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcovsogreopjj'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2261,250,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2262,251,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2326,315,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2327,316,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2329,318,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2330,319,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2331,320,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2332,321,OKX_Brasil (antiga OKEx),True,2022-03-09 10:00:01+00:00,246,724,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/vSoGreopjJ",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcovsogreopjj'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2333,322,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2334,323,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2407,396,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2408,397,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2410,399,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2411,400,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2412,401,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2413,402,OKX_Brasil (antiga OKEx),True,2022-03-09 10:00:01+00:00,246,724,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/vSoGreopjJ",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcovsogreopjj'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2414,403,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2415,404,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2489,478,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2490,479,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2492,481,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2493,482,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2494,483,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2495,484,OKX_Brasil (antiga OKEx),True,2022-03-09 10:00:01+00:00,246,724,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/vSoGreopjJ",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcovsogreopjj'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2496,485,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2497,486,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2573,562,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2574,563,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2576,565,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2577,566,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2578,567,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2579,568,OKX_Brasil (antiga OKEx),True,2022-03-09 10:00:01+00:00,246,724,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/vSoGreopjJ",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcovsogreopjj'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2580,569,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2581,570,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2661,650,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2662,651,Shannon Bray,True,2022-03-09 17:36:22+00:00,160,272,64683,"[{'text': 'BlueSparrow', 'indices': [21, 33]}, {'text': 'shib', 'indices': [35, 40]}, {'text': 'Cronos', 'indices': [42, 49]}, {'text': 'CRO', 'indices': [51, 55]}, {'text': 'Saitama', 'indices': [58, 66]}, {'text': 'VVS', 'indices': [68, 72]}, {'text': 'Bezoge', 'indices': [74, 81]}, {'text': 'Bone', 'indices': [83, 88]}, {'text': 'dogecoin', 'indices': [90, 99]}]","Bags Reloaded Today: #BlueSparrow, #shib, #Cronos (#CRO), #Saitama, #VVS, #Bezoge, #Bone, #dogecoin 
+
+What else is… https://t.co/l84jSgsF75",['bags reloaded today #bluesparrow #shib #cronos #cro #saitama #vvs #bezoge #bone #dogecoin \r\n\r\nwhat else is… httpstcol84jsgsf75'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2664,653,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2665,654,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2666,655,OKX_Brasil (antiga OKEx),True,2022-03-09 15:55:52+00:00,307,655,4541,"[{'text': 'BABYDOGE', 'indices': [53, 62]}, {'text': 'doge', 'indices': [73, 78]}, {'text': 'dogecoin', 'indices': [79, 88]}, {'text': 'dogearmy', 'indices': [89, 98]}, {'text': 'dogelonmars', 'indices': [99, 111]}]","🐶 De qual time você faz parte? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars… https://t.co/NsyDKbvT8w",['🐶 de qual time você faz parte 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars… httpstconsydkbvt8w'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2667,656,OKX_Brasil (antiga OKEx),True,2022-03-09 10:00:01+00:00,246,724,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/vSoGreopjJ",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcovsogreopjj'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2668,657,OKX_Latinoamérica,True,2022-03-09 15:58:38+00:00,67,142,4035,"[{'text': 'BABYDOGE', 'indices': [45, 54]}, {'text': 'doge', 'indices': [65, 70]}, {'text': 'dogecoin', 'indices': [71, 80]}, {'text': 'dogearmy', 'indices': [81, 90]}, {'text': 'dogelonmars', 'indices': [91, 103]}, {'text': 'SHIB', 'indices': [104, 109]}]","🐶 ¿De qué equipo eres? 🤔👇
+
+$DOGE ⚔️ $SHIB ⚔️ #BABYDOGE ⚔️ $ELON
+
+#doge #dogecoin #dogearmy #dogelonmars #SHIB… https://t.co/FCiJ9kTJId",['🐶 ¿de qué equipo eres 🤔👇\r\n\r\ndoge ⚔️ shib ⚔️ #babydoge ⚔️ elon\r\n\r\n#doge #dogecoin #dogearmy #dogelonmars #shib… httpstcofcij9ktjid'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2669,658,SlumDOGE Millionaire,True,2022-03-09 05:34:35+00:00,100,812,215252,"[{'text': 'dogecoin', 'indices': [89, 98]}]",We honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train. When I sa… https://t.co/nO8fnrGvKR,['we honestly have to look at this as an opportunity for new investors to get on board the #dogecoin train when i sa… httpstcono8fnrgvkr'],0.36818181818181817,Positive,0.216,0.0,0.784,0.7003,Positive
+2794,68,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+2795,69,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+2825,99,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+2826,100,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+2827,101,OKX_Brasil (antiga OKEx),True,2022-03-10 14:00:03+00:00,205,615,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/7UEewcvGFq",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco7ueewcvgfq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2858,132,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+2859,133,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+2860,134,OKX_Brasil (antiga OKEx),True,2022-03-10 14:00:03+00:00,205,615,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/7UEewcvGFq",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco7ueewcvgfq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2904,178,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+2905,179,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+2906,180,OKX_Brasil (antiga OKEx),True,2022-03-10 14:00:03+00:00,205,615,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/7UEewcvGFq",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco7ueewcvgfq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+2961,235,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+2962,236,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+2963,237,OKX_Brasil (antiga OKEx),True,2022-03-10 14:00:03+00:00,205,615,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/7UEewcvGFq",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco7ueewcvgfq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3027,301,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+3028,302,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+3029,303,OKX_Brasil (antiga OKEx),True,2022-03-10 14:00:03+00:00,205,615,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/7UEewcvGFq",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco7ueewcvgfq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3098,372,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+3099,373,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+3100,374,OKX_Brasil (antiga OKEx),True,2022-03-10 14:00:03+00:00,205,615,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/7UEewcvGFq",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco7ueewcvgfq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3172,446,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+3173,447,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+3174,448,OKX_Brasil (antiga OKEx),True,2022-03-10 14:00:03+00:00,205,615,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/7UEewcvGFq",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco7ueewcvgfq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3247,521,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+3248,522,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+3249,523,OKX_Brasil (antiga OKEx),True,2022-03-10 14:00:03+00:00,205,615,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/7UEewcvGFq",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco7ueewcvgfq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3327,601,Shibetoshi Nakamoto,True,2022-03-10 18:30:24+00:00,270,1109,1194542,"[{'text': 'dogecoin', 'indices': [0, 9]}]",#dogecoin payments at https://t.co/xSAGycLof5 is live ~ just select BitPay at checkout https://t.co/sDdRGdHYfS,['#dogecoin payments at httpstcoxsagyclof5 is live  just select bitpay at checkout httpstcosddrgdhyfs'],0.13636363636363635,Positive,0.0,0.0,1.0,0.0,Neutral
+3328,602,OKX_Brasil (antiga OKEx),True,2022-03-10 13:00:01+00:00,72,484,4541,"[{'text': 'memecoin', 'indices': [5, 14]}, {'text': 'dogecoin', 'indices': [58, 67]}, {'text': 'dogearmy', 'indices': [68, 77]}, {'text': 'SHIB', 'indices': [78, 83]}, {'text': 'SHIBARMY', 'indices': [84, 93]}, {'text': 'SHIBARAMY', 'indices': [94, 104]}, {'text': 'ShibaInu', 'indices': [105, 114]}]","Qual #memecoin tem a comunidade mais forte no Twitter? 🤔
+
+#dogecoin #dogearmy #SHIB #SHIBARMY #SHIBARAMY #ShibaInu… https://t.co/9eq7nIpaqV",['qual #memecoin tem a comunidade mais forte no twitter 🤔\r\n\r\n#dogecoin #dogearmy #shib #shibarmy #shibaramy #shibainu… httpstco9eq7nipaqv'],0.0,Neutral,0.0,0.136,0.864,-0.296,Negative
+3329,603,OKX_Brasil (antiga OKEx),True,2022-03-10 14:00:03+00:00,205,615,4541,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/7UEewcvGFq",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco7ueewcvgfq'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3437,58,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3438,59,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3463,84,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3464,85,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3466,87,OKX_Brasil (antiga OKEx),True,2022-03-11 12:00:01+00:00,163,500,4727,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/bmJoP9nUbh",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcobmjop9nubh'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3467,88,OKX_Latinoamérica,True,2022-03-11 11:00:01+00:00,98,282,4355,"[{'text': 'BabyDoge', 'indices': [10, 19]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEx', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 ¡Compra #BabyDoge y otras #memecoins en #OKEx! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/1AHw6dDYvD",['📈 ¡compra #babydoge y otras #memecoins en #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco1ahw6ddyvd'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3492,113,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3493,114,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3495,116,OKX_Brasil (antiga OKEx),True,2022-03-11 12:00:01+00:00,163,500,4727,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/bmJoP9nUbh",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcobmjop9nubh'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3496,117,OKX_Latinoamérica,True,2022-03-11 11:00:01+00:00,98,282,4355,"[{'text': 'BabyDoge', 'indices': [10, 19]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEx', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 ¡Compra #BabyDoge y otras #memecoins en #OKEx! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/1AHw6dDYvD",['📈 ¡compra #babydoge y otras #memecoins en #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco1ahw6ddyvd'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3532,153,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3533,154,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3535,156,OKX_Brasil (antiga OKEx),True,2022-03-11 12:00:01+00:00,163,500,4727,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/bmJoP9nUbh",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcobmjop9nubh'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3536,157,OKX_Latinoamérica,True,2022-03-11 11:00:01+00:00,98,282,4355,"[{'text': 'BabyDoge', 'indices': [10, 19]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEx', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 ¡Compra #BabyDoge y otras #memecoins en #OKEx! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/1AHw6dDYvD",['📈 ¡compra #babydoge y otras #memecoins en #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco1ahw6ddyvd'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3584,205,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3585,206,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3587,208,OKX_Brasil (antiga OKEx),True,2022-03-11 12:00:01+00:00,163,500,4727,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/bmJoP9nUbh",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcobmjop9nubh'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3588,209,OKX_Latinoamérica,True,2022-03-11 11:00:01+00:00,98,282,4355,"[{'text': 'BabyDoge', 'indices': [10, 19]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEx', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 ¡Compra #BabyDoge y otras #memecoins en #OKEx! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/1AHw6dDYvD",['📈 ¡compra #babydoge y otras #memecoins en #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco1ahw6ddyvd'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3642,263,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3643,264,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3645,266,OKX_Brasil (antiga OKEx),True,2022-03-11 12:00:01+00:00,163,500,4727,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/bmJoP9nUbh",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcobmjop9nubh'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3646,267,OKX_Latinoamérica,True,2022-03-11 11:00:01+00:00,98,282,4355,"[{'text': 'BabyDoge', 'indices': [10, 19]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEx', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 ¡Compra #BabyDoge y otras #memecoins en #OKEx! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/1AHw6dDYvD",['📈 ¡compra #babydoge y otras #memecoins en #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco1ahw6ddyvd'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3707,328,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3708,329,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3710,331,OKX_Brasil (antiga OKEx),True,2022-03-11 12:00:01+00:00,163,500,4727,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/bmJoP9nUbh",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcobmjop9nubh'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3711,332,OKX_Latinoamérica,True,2022-03-11 11:00:01+00:00,98,282,4355,"[{'text': 'BabyDoge', 'indices': [10, 19]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEx', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 ¡Compra #BabyDoge y otras #memecoins en #OKEx! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/1AHw6dDYvD",['📈 ¡compra #babydoge y otras #memecoins en #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco1ahw6ddyvd'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3775,396,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3776,397,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3778,399,OKX_Brasil (antiga OKEx),True,2022-03-11 12:00:01+00:00,163,500,4727,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/bmJoP9nUbh",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcobmjop9nubh'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3779,400,OKX_Latinoamérica,True,2022-03-11 11:00:01+00:00,98,282,4355,"[{'text': 'BabyDoge', 'indices': [10, 19]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEx', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 ¡Compra #BabyDoge y otras #memecoins en #OKEx! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/1AHw6dDYvD",['📈 ¡compra #babydoge y otras #memecoins en #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco1ahw6ddyvd'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3845,466,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3846,467,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3848,469,OKX_Brasil (antiga OKEx),True,2022-03-11 12:00:01+00:00,163,500,4727,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/bmJoP9nUbh",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcobmjop9nubh'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3849,470,OKX_Latinoamérica,True,2022-03-11 11:00:01+00:00,98,282,4355,"[{'text': 'BabyDoge', 'indices': [10, 19]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEx', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 ¡Compra #BabyDoge y otras #memecoins en #OKEx! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/1AHw6dDYvD",['📈 ¡compra #babydoge y otras #memecoins en #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco1ahw6ddyvd'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3923,544,CateCoin,True,2022-03-11 16:42:26+00:00,192,1096,82430,"[{'text': 'dogecoin', 'indices': [0, 9]}, {'text': 'shibainu', 'indices': [12, 21]}, {'text': 'catecoin', 'indices': [25, 34]}]","#dogecoin🐶- #shibainu🐕-  #catecoin🐱 
+
+👇                       👇                       👇",['#dogecoin🐶 #shibainu🐕  #catecoin🐱 \r\n\r\n👇                       👇                       👇'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3924,545,OKX,True,2022-03-11 08:32:07+00:00,123,424,790216,"[{'text': 'dogecoin', 'indices': [26, 35]}, {'text': 'shibainu', 'indices': [42, 51]}]",".@AMCTheatres now accepts #dogecoin &amp; #shibainu payments! 🐶🚀
+
+$DOGE $SHIB
+
+https://t.co/qN5HVqQTfk",['@amctheatres now accepts #dogecoin amp #shibainu payments 🐶🚀\r\n\r\ndoge shib\r\n\r\nhttpstcoqn5hvqqtfk'],0.0,Neutral,0.223,0.0,0.777,0.3182,Positive
+3926,547,OKX_Brasil (antiga OKEx),True,2022-03-11 12:00:01+00:00,163,500,4727,"[{'text': 'BabyDoge', 'indices': [9, 18]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEX', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 Compre #BabyDoge e outras #memecoins na #OKEX! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/bmJoP9nUbh",['📈 compre #babydoge e outras #memecoins na #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstcobmjop9nubh'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
+3927,548,OKX_Latinoamérica,True,2022-03-11 11:00:01+00:00,98,282,4355,"[{'text': 'BabyDoge', 'indices': [10, 19]}, {'text': 'memecoins', 'indices': [28, 38]}, {'text': 'OKEx', 'indices': [42, 47]}, {'text': 'BABYDOGE', 'indices': [54, 63]}, {'text': 'DOGE', 'indices': [78, 83]}, {'text': 'ELON', 'indices': [94, 99]}]","📈 ¡Compra #BabyDoge y otras #memecoins en #OKEx! 🐶🐕🦴
+
+#BABYDOGE @BabyDogeCoin
+#DOGE @dogecoin
+#ELON @DogelonMars… https://t.co/1AHw6dDYvD",['📈 ¡compra #babydoge y otras #memecoins en #okex 🐶🐕🦴\r\n\r\n#babydoge @babydogecoin\r\n#doge @dogecoin\r\n#elon @dogelonmars… httpstco1ahw6ddyvd'],0.0,Neutral,0.0,0.0,1.0,0.0,Neutral
