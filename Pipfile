@@ -5,10 +5,10 @@ verify_ssl = true
 
 [packages]
 cryptocompare = "*"
-# For DataSpall to be able to run the notebooks.
 jupyter = "*"
 matplotlib = "*"
 missingno = "*"
+nltk = "*"
 numpy = "*"
 openpyxl = "*"
 pandas = "*"
@@ -17,6 +17,7 @@ scikit-learn = "*"
 scipy = "*"
 seaborn = "*"
 statsmodels = "*"
+textblob = "*"
 twython = "*"
 
 [dev-packages]
