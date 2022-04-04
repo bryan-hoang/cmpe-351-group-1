@@ -17,8 +17,10 @@ scikit-learn = "*"
 scipy = "*"
 seaborn = "*"
 statsmodels = "*"
+tensorflow = "*"
 textblob = "*"
 twython = "*"
+salib = "*"
 
 [dev-packages]
 bandit = "*"
