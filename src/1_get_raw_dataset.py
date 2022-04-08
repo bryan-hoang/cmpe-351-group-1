@@ -24,7 +24,7 @@
 #
 
 # %% [python]
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # Access environment variables.
 from os import environ
@@ -33,7 +33,11 @@ from os import environ
 from os.path import dirname, join, realpath
 
 # Cryptocompare API.
-from cryptocompare import get_historical_price_minute, get_price
+from cryptocompare import (
+    get_historical_price_hour,
+    get_historical_price_minute,
+    get_price,
+)
 
 # Loading environment variables from a `.env` file.
 from dotenv import load_dotenv
@@ -107,8 +111,10 @@ twitter.search(count=1, q="cryptocurrency")
 # %%
 CRYPTOCURRENCIES = ["BTC", "ETH", "DOGE", "SOL", "AVAX"]
 # The last 7 days is the limit of the minute data from crypto compare.
-NUM_DAYS = 7
-DATE_RANGE = date_range(end=datetime.today(), periods=NUM_DAYS)
+NUM_DAYS = 1
+# Decided based on limitations of API at the time of data collection.
+LAST_DAY = datetime(2022, 3, 12)
+DATE_RANGE = date_range(end=LAST_DAY, periods=NUM_DAYS)
 
 
 def get_and_save_crypto_dataset(
@@ -118,8 +124,11 @@ def get_and_save_crypto_dataset(
     for cryptocurrency in cryptocurrencies:
         price_dataset = []
         for date in time_period:
-            price_dataset += get_historical_price_minute(
-                cryptocurrency, "USD", limit=1440, toTs=date
+            price_dataset += get_historical_price_hour(
+                cryptocurrency,
+                "USD",
+                limit=24,
+                toTs=date,
             )
 
         # Saving the raw price data to a csv file.
@@ -130,9 +139,10 @@ def get_and_save_crypto_dataset(
                 "raw",
                 "crypto",
                 f"{cryptocurrency.lower()}"
-                f"_{time_period[0].strftime('%Y_%m_%d')}"
+                f"_{(time_period[0] - timedelta(days=1)).strftime('%Y_%m_%d')}"
                 f"-{time_period[-1].strftime('%Y_%m_%d')}_minute.csv",
-            )
+            ),
+            index=False,
         )
 
 
