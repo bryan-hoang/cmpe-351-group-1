@@ -139,14 +139,6 @@ def get_financial_volatilitys(
 
 
 # %%
-btc_prices = DataFrame()
-eth_prices = DataFrame()
-doge_prices = DataFrame()
-sol_prices = DataFrame()
-avax_prices = DataFrame()
-
-
-# %%
 def append_financial_volatilities(start_date: datetime, end_date: datetime):
     """Append the financial volatility for all cryptocurrencies"""
     global btc_prices, eth_prices, doge_prices, sol_prices, avax_prices
@@ -168,20 +160,34 @@ def append_financial_volatilities(start_date: datetime, end_date: datetime):
 
 
 # %%
-btc_prices = get_financial_volatilitys("BTC", start_date, end_date)
-eth_prices = get_financial_volatilitys("ETH", start_date, end_date)
-doge_prices = get_financial_volatilitys("DOGE", start_date, end_date)
-sol_prices = get_financial_volatilitys("SOL", start_date, end_date)
-avax_prices = get_financial_volatilitys("AVAX", start_date, end_date)
+btc_prices = DataFrame()
+eth_prices = DataFrame()
+doge_prices = DataFrame()
+sol_prices = DataFrame()
+avax_prices = DataFrame()
+
+start_date = datetime(2022, 3, 5)
+end_date = datetime(2022, 3, 11)
+
+append_financial_volatilities(start_date, end_date)
 
 start_date = datetime(2022, 3, 28)
 end_date = datetime(2022, 4, 4)
 
 append_financial_volatilities(start_date, end_date)
 
+print(btc_prices.head())
+print(btc_prices.tail())
+
 
 # %%
+def floor_minute(t: datetime):
+    """Floor the minute of a datetime."""
+    return t.replace(second=0, microsecond=0)
+
+
 def sync_twitter_and_crypto_data(cryptocurrency, crypto_df):
+    financial_volatility_and_sentiment_df = DataFrame()
     twitter_df = pd.read_csv(
         path.join(
             DATA_DIR,
@@ -191,21 +197,83 @@ def sync_twitter_and_crypto_data(cryptocurrency, crypto_df):
         ),
         index_col=0,
     )
-    twitter_df = twitter_df[["created_at", "vader_sentiment_compound"]]
+    twitter_df = twitter_df[["created_at", "vader_sentiment_compound"]].rename(
+        {"created_at": "time", "vader_sentiment_compound": "sentiment"}, axis=1
+    )
 
     price_dict = crypto_df.set_index("time")["price"].to_dict()
 
-    twitter_df["created_at"] = twitter_df["created_at"].transform(
+    twitter_df["time"] = twitter_df["time"].transform(
         lambda x: pd.to_datetime(x).tz_localize(None)
     )
-    twitter_df["created_at"] = twitter_df["created_at"].transform(hour_rounder)
+    twitter_df["time"] = twitter_df["time"].transform(floor_minute)
+    crypto_df["time"] = crypto_df["time"].transform(floor_minute)
+
+    financial_volatility_and_sentiment_df = crypto_df.merge(
+        twitter_df, on="time"
+    ).drop_duplicates()
+
+    financial_volatility_and_sentiment_df = (
+        financial_volatility_and_sentiment_df[
+            financial_volatility_and_sentiment_df["sentiment"].notna()
+        ]
+    )
+
+    return financial_volatility_and_sentiment_df
+
+
+financial_volatility_and_sentiment_df = sync_twitter_and_crypto_data(
+    "BTC", btc_prices
+)
+print(len(financial_volatility_and_sentiment_df))
+print(financial_volatility_and_sentiment_df.head())
+print(financial_volatility_and_sentiment_df.tail())
+
+# %%
+btc_social_volitility = abs(
+    financial_volatility_and_sentiment_df[
+        ["minutely_volatility", "sentiment"]
+    ].corr(method="pearson")["minutely_volatility"]["sentiment"]
+)
+btc_social_volitility
 
 
 # %%
-def calculate_social_volatility(prices):
-    """Calculate the social volatility"""
-    return prices
+def get_social_volitility(cryptocurrency, crypto_df):
+    financial_volatility_and_sentiment_df = sync_twitter_and_crypto_data(
+        cryptocurrency, crypto_df
+    )
+    return abs(
+        financial_volatility_and_sentiment_df[
+            ["minutely_volatility", "sentiment"]
+        ].corr(method="pearson")["minutely_volatility"]["sentiment"]
+    )
 
 
-btc_prices = calculate_social_volatility(btc_prices)
-btc_prices.head()
+eth_social_volitility = get_social_volitility("ETH", eth_prices)
+doge_social_volitility = get_social_volitility("DOGE", doge_prices)
+sol_social_volitility = get_social_volitility("SOL", sol_prices)
+avax_social_volitility = get_social_volitility("AVAX", avax_prices)
+
+# %%
+social_volatilities_df = pd.DataFrame(
+    {
+        "crypcocurrency": ["BTC", "ETH", "DOGE", "SOL", "AVAX"],
+        "social_volatility": [
+            btc_social_volitility,
+            eth_social_volitility,
+            doge_social_volitility,
+            sol_social_volitility,
+            avax_social_volitility,
+        ],
+    }
+)
+social_volatilities_df = social_volatilities_df.sort_values(
+    by="social_volatility", ascending=False
+).reset_index(drop=True)
+social_volatilities_df.head()
+
+# %%
+sns.barplot(
+    x="social_volatility", y="crypcocurrency", data=social_volatilities_df
+)
